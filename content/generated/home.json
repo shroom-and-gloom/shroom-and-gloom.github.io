@@ -1,0 +1,339 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Shroom and Gloom Wiki – Cards, Quests & Unlocks",
+  "description": "Shroom and Gloom wiki for Early Access: achievements, characters, quests, best cards, Forgotten Path vs Facility, and Concerned Parent unlocks.",
+  "keywords": [
+    "Shroom and Gloom wiki",
+    "Shroom and Gloom",
+    "Shroom and Gloom guide",
+    "Shroom and Gloom achievements",
+    "Shroom and Gloom characters"
+  ],
+  "primaryKeyword": "Shroom and Gloom wiki",
+  "secondaryKeywords": [
+    "Shroom and Gloom guide",
+    "Shroom and Gloom Early Access"
+  ],
+  "searchIntent": "Players looking for a practical Shroom and Gloom wiki that explains the game and routes them to achievements, characters, quests, cards, and paths.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1500,
+  "sourceNotes": [
+    "Steam store page app/3271280 verified 2026-09-17",
+    "Steam news patch notes 0.6.24 and 0.6.39 verified 2026-09-17",
+    "Official Early Access launch announcement verified 2026-09-17"
+  ],
+  "factsStatus": "mixed",
+  "hero": {
+    "eyebrow": "Player wiki for Early Access",
+    "heading": "Shroom and Gloom Wiki",
+    "lead": "This Shroom and Gloom wiki covers the Early Access double-deckbuilder from Team Lazerbeam and Devolver Digital. It explains what the game is, what changed after launch, and where to go next for achievements, characters, quests, cards, and paths.",
+    "supportingText": "Early Access launched on Steam on September 10, 2026. We separate official Steam facts from player-reported unlock details so you can trust what you read.",
+    "primaryLink": {
+      "label": "Open achievements guide",
+      "slug": "achievements"
+    },
+    "secondaryLink": {
+      "label": "Official Steam page",
+      "url": "https://store.steampowered.com/app/3271280/"
+    }
+  },
+  "sections": [
+    {
+      "id": "quick-facts",
+      "eyebrow": "Verified basics",
+      "heading": "Quick Facts",
+      "intro": "These facts come from the official Steam store page and Early Access materials reviewed on 2026-09-17.",
+      "paragraphs": [
+        "Shroom and Gloom is a single-player Steam game developed by Team Lazerbeam and published by Devolver Digital. Steam lists Adventure and Indie genres plus an Early Access tag. The store description frames it as a moody first-person, roguelike double-deckbuilder packed with fungal enemies and mega-combos.",
+        "Early Access release date on Steam is September 10, 2026. The same date is listed as the Early Access release date, so this site treats the game as released into Early Access rather than as an unreleased title.",
+        "Steam currently advertises Steam Achievements, Steam Cloud, Family Sharing, controller support notes in launch materials, English and Simplified Chinese interface support, and a free demo. Official Early Access copy says the current build includes two distinct pathways with unique characters, roughly 300 explore and combat cards per pathway, plus quests, synergies, and unlocks."
+      ],
+      "table": {
+        "caption": "Official quick facts (Steam, reviewed 2026-09-17)",
+        "columns": [
+          "Fact",
+          "Value",
+          "Source type"
+        ],
+        "rows": [
+          [
+            "Steam App ID",
+            "3271280",
+            "Official store"
+          ],
+          [
+            "Developer",
+            "Team Lazerbeam",
+            "Official store"
+          ],
+          [
+            "Publisher",
+            "Devolver Digital",
+            "Official store"
+          ],
+          [
+            "Status",
+            "Early Access (live)",
+            "Official store"
+          ],
+          [
+            "EA start date",
+            "September 10, 2026",
+            "Official store"
+          ],
+          [
+            "Platform focus",
+            "Steam (Windows and macOS requirements listed)",
+            "Official store"
+          ],
+          [
+            "Steam achievements",
+            "14",
+            "Official store / community stats"
+          ],
+          [
+            "Current pathways",
+            "Two distinct pathways at EA launch",
+            "Official EA FAQ / launch notes"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "what-shroom-and-gloom-is",
+      "heading": "What Shroom and Gloom Is",
+      "intro": "A plain-language answer for players comparing it with other deckbuilders.",
+      "paragraphs": [
+        "Shroom and Gloom is not a tabletop-style card battler viewed from above. You move through hand-drawn first-person spaces, then resolve fights with a dedicated combat deck. Exploration choices are also card-driven, which means routing, upgrades, and utility tools compete for attention with raw damage.",
+        "The fantasy is fungal and surreal rather than high fantasy. Official copy emphasizes monstrous mushrooms, mega-combos, and a push into the heart of The Gloom. The tone is darkly comic: you can roast enemies, eat them to recover, and cook soups that change the next stretch of a run.",
+        "Because the game is in Early Access, systems are complete enough to play deeply, but balance, card text, and onboarding still change. Official developer messaging says Early Access is expected to last about 12 to 24 months, with more pathway and character content planned before 1.0."
+      ]
+    },
+    {
+      "id": "who-this-is-for",
+      "heading": "Who This Game Is For",
+      "paragraphs": [
+        "Shroom and Gloom fits players who like roguelike deckbuilders and do not mind learning two interacting decks. If you enjoy experimenting with modifiers, food engines, and route planning, the current Early Access build already has a large playground.",
+        "It is less ideal if you only want a finished competitive ladder or a short scripted campaign. Official EA notes describe a highly replayable unlock and synergy structure rather than a single fixed story path.",
+        "Controller support and Steam Cloud were called out in launch materials as major quality-of-life features. If you play on a handheld or couch setup, check current community reports for your exact device after the 0.6.39 input-device fixes."
+      ]
+    },
+    {
+      "id": "start-here",
+      "eyebrow": "Site map",
+      "heading": "Start Here",
+      "intro": "This Shroom and Gloom wiki keeps one page per search intent. Use these six focused guides instead of hunting through forum threads.",
+      "paragraphs": [
+        "If you only have a few minutes, start with achievements or characters. If you are stuck on a specific unlock, open the Concerned Parent guide. If you are choosing a route or drafting, jump to paths or best cards. Every card below is part of the same Shroom and Gloom wiki map."
+      ],
+      "links": [
+        {
+          "label": "Shroom and Gloom achievements (all 14)",
+          "slug": "achievements",
+          "description": "Scannable achievement table, known descriptions, and patch reminders."
+        },
+        {
+          "label": "How to unlock Concerned Parent",
+          "slug": "how-to-unlock-concerned-parent",
+          "description": "Direct answer page with player-reported steps clearly labeled."
+        },
+        {
+          "label": "Characters and unlock requirements",
+          "slug": "characters",
+          "description": "Launch roster, playstyle notes, and unlock framing."
+        },
+        {
+          "label": "Quests guide",
+          "slug": "quests",
+          "description": "Quest system overview and community-reported objectives."
+        },
+        {
+          "label": "Best cards and mega combos",
+          "slug": "best-cards",
+          "description": "How to evaluate cards without fake tier lists."
+        },
+        {
+          "label": "Forgotten Path vs Facility",
+          "slug": "paths",
+          "description": "Route differences, risks, and patch-aware notes."
+        }
+      ]
+    },
+    {
+      "id": "gameplay-overview",
+      "heading": "Gameplay Overview",
+      "intro": "The core loop below is the practical foundation of this Shroom and Gloom wiki, written from official store and Early Access materials.",
+      "paragraphs": [
+        "Shroom and Gloom splits progression into two decks. The combat deck is for surviving fights. The explore deck is for navigating dungeons, modifying cards, and unlocking weapons or abilities. Official store copy also highlights infinite card growth and modification: low-level starters can scale into powerful attacks, and rare cards can become extreme tools.",
+        "Combat leans into cooking and eating enemies rather than classic blocking. Steam text calls out seasoning, skewering, roasting, restoring health by eating foes, and cooking soups for larger effects. That food loop is one of the main reasons combat drafting feels different from a typical roguelike deckbuilder.",
+        "Between runs, quests and unlocks expand the cast and pathways. Official Early Access notes say players unlock advanced characters and Facility access through mushroom-hunting style quests. Exact quest text and rewards can change during Early Access, so this wiki keeps unverified reward numbers out of the homepage.",
+        "A practical first session usually looks like this: learn torch and warmth pressure on Forgotten Path, keep the explore deck stocked with utility, and treat food generation as part of combat math rather than a side joke. Once you can finish fights with leftover resources, quests and mapping goals become realistic."
+      ],
+      "subsections": [
+        {
+          "heading": "What is confirmed about content scope",
+          "paragraphs": [
+            "At Early Access launch, official materials list five playable characters: Paperboy, Janitor, Lunchlady, Activist, and Concerned Parent. Each character has unique starting combat and explore decks plus a base Foresight card.",
+            "Official materials also describe two pathways toward The Gloom with unique card pools, enemies, and rewards. Developers plan a third pathway later during Early Access, along with more characters and quests."
+          ]
+        },
+        {
+          "heading": "What this wiki will not invent",
+          "paragraphs": [
+            "Redeem codes, drop rates, hidden reward values, and unverified predictions are omitted. Community-only details stay labeled player-reported."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "current-patch",
+      "heading": "Current Patch and Known Changes",
+      "intro": "Post-launch patches move quickly. The notes below are taken from official Steam news posts.",
+      "paragraphs": [
+        "Patch 0.6.24 (official Steam news) fixed achievements “Gloom Slayer” and “Would you love me if I were a worm,” improved loading times, adjusted three-door explore room layouts, and added more torch spawn locations in The Forgotten Path. It also stated that permanent food and data should keep the Endless property when you make a permanent copy.",
+        "Patch 0.6.39 (official Steam news) focused on making The Janitor and The Facility less punishing for new players, clarified cleaning and gunk systems, adjusted multiple Facility-oriented cards, and fixed auto-walk or not-walking issues caused by unrecognized input devices. It also included Simplified Chinese loading and localization fixes.",
+        "Reviewed on 2026-09-17. Always check the latest Steam news hub if you are troubleshooting a brand-new bug, because Early Access can ship another hotfix after this page was written.",
+        "If you are returning after launch weekend, update before chasing rare achievements. Several achievement and movement bugs were acknowledged in official notes within the first week of Early Access."
+      ],
+      "bullets": [
+        "0.6.24: achievement repairs for Gloom Slayer and Would you love me if I were a worm",
+        "0.6.24: Forgotten Path torch spawn improvement",
+        "0.6.39: Janitor / Facility onboarding and card behavior tweaks",
+        "0.6.39: auto-walk input-device fix",
+        "0.6.39: Simplified Chinese load and blank-text fixes"
+      ]
+    },
+    {
+      "id": "popular-player-questions",
+      "heading": "Popular Player Questions",
+      "intro": "These are the questions players ask most often right after buying the Early Access build.",
+      "paragraphs": [
+        "How do I unlock Concerned Parent? Official materials confirm Concerned Parent is part of the launch roster and is presented as an unlockable character in developer diaries. Exact in-game quest mapping is still labeled carefully on the dedicated unlock page.",
+        "Where are all achievements listed? Steam ships 14 achievements. Some descriptions are public on Steam; others remain hidden until unlocked. Use the achievements page for the verified names and known conditions.",
+        "Should I play Forgotten Path or Facility first? Official patch notes and launch copy treat Forgotten Path as the earlier fungal route and Facility as the second pathway with its own card pool and systems such as gunk and machines. New players usually learn faster on Forgotten Path before tackling Facility complexity."
+      ],
+      "links": [
+        {
+          "label": "Concerned Parent unlock guide",
+          "slug": "how-to-unlock-concerned-parent",
+          "description": "Step-by-step unlock page with uncertainty labels."
+        },
+        {
+          "label": "All 14 achievements",
+          "slug": "achievements",
+          "description": "Names, known conditions, and patch caveats."
+        },
+        {
+          "label": "Paths comparison",
+          "slug": "paths",
+          "description": "Forgotten Path versus Facility for different goals."
+        }
+      ]
+    },
+    {
+      "id": "fact-policy",
+      "heading": "Fact Policy",
+      "intro": "A short trust rule for every page on this site.",
+      "paragraphs": [
+        "Official facts come from the Steam store page, Steam news and patch notes, and public developer announcements.",
+        "Player-reported details are marked and dated. This independent Shroom and Gloom wiki is not affiliated with Team Lazerbeam or Devolver Digital. Last reviewed: 2026-09-17."
+      ]
+    },
+    {
+      "id": "how-to-use-this-wiki",
+      "heading": "How to Use This Shroom and Gloom Wiki",
+      "paragraphs": [
+        "Read the homepage for orientation, then open one child page for the job you need. Achievements and characters are reference pages. Concerned Parent is a problem-solving page. Quests, cards, and paths are planning pages.",
+        "If two pages seem related, follow the contextual links rather than searching the same keyword twice. That keeps Google and readers on the page that actually matches the intent.",
+        "When Early Access patches change card text or unlock flow, prefer the newest official patch note over any older screenshot in a guide."
+      ]
+    },
+    {
+      "id": "related-pages-detail",
+      "heading": "Related Shroom and Gloom Pages",
+      "intro": "Every child page below exists because players search for that topic on its own.",
+      "paragraphs": [
+        "Achievements covers the full set of 14 Steam achievements with known public descriptions and patch caveats. Characters summarizes the launch roster and points to unlock pages when a character is not available from the first run. Quests explains the meta unlock loop without inventing reward amounts. Best cards teaches evaluation criteria for combat and explore drafting. Paths compares Forgotten Path and Facility using official framing and patch-aware notes.",
+        "The Concerned Parent page is intentionally separate. That keeps a long-tail how-to query from bloating the characters hub and prevents the homepage from ranking for a narrow unlock question."
+      ],
+      "links": [
+        {
+          "label": "Browse the achievements table",
+          "slug": "achievements"
+        },
+        {
+          "label": "Compare Forgotten Path and Facility",
+          "slug": "paths"
+        },
+        {
+          "label": "Open the quests checklist",
+          "slug": "quests"
+        },
+        {
+          "label": "Read card evaluation criteria",
+          "slug": "best-cards"
+        },
+        {
+          "label": "See character unlock framing",
+          "slug": "characters"
+        },
+        {
+          "label": "Unlock Concerned Parent",
+          "slug": "how-to-unlock-concerned-parent"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Shroom and Gloom?",
+      "answer": "Shroom and Gloom is a first-person, roguelike double-deckbuilder by Team Lazerbeam and Devolver Digital. You build a combat deck and an explore deck while pushing toward The Gloom through fungal dungeons."
+    },
+    {
+      "question": "Is Shroom and Gloom released yet?",
+      "answer": "Yes. Steam lists the Early Access release date as September 10, 2026. The game is available in Early Access now."
+    },
+    {
+      "question": "How many achievements does Shroom and Gloom have?",
+      "answer": "Steam lists 14 achievements for Shroom and Gloom. Some descriptions are public; others stay hidden until unlocked."
+    },
+    {
+      "question": "Where should new players start on this wiki?",
+      "answer": "Start on this Shroom and Gloom wiki homepage for the overview, then open Achievements or Characters. Use the Concerned Parent page only when you are specifically stuck on that unlock."
+    },
+    {
+      "question": "Does this wiki invent codes or drop rates?",
+      "answer": "No. Unverified codes, drop rates, and reward values are omitted. Player-reported unlock steps are labeled and dated."
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/shroom-and-gloom-cover.webp",
+      "alt": "Shroom and Gloom cover art used as visual reference on the wiki homepage",
+      "caption": "Cover reference art for Shroom and Gloom."
+    }
+  ],
+  "lastReviewed": "2026-09-17",
+  "factsLabel": "Official Steam facts + clearly labeled player-reported unlock details",
+  "sources": [
+    {
+      "label": "Shroom and Gloom on Steam",
+      "url": "https://store.steampowered.com/app/3271280/",
+      "type": "official",
+      "typeLabel": "Official Steam page",
+      "reviewed": "2026-09-17",
+      "note": "Developer, publisher, Early Access date, feature list, and store description."
+    },
+    {
+      "label": "Shroom and Gloom Steam news hub",
+      "url": "https://store.steampowered.com/news/app/3271280",
+      "type": "official",
+      "typeLabel": "Official patch notes",
+      "reviewed": "2026-09-17",
+      "note": "Entry point for official launch posts and patch notes including 0.6.24 and 0.6.39."
+    }
+  ]
+}

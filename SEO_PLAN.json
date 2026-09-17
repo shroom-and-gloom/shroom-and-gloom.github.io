@@ -1,0 +1,135 @@
+{
+  "gameName": "Shroom and Gloom",
+  "pages": [
+    {
+      "slug": "",
+      "primaryKeyword": "Shroom and Gloom",
+      "secondaryKeywords": [
+        "Shroom and Gloom wiki",
+        "Shroom and Gloom guide"
+      ],
+      "title": "Shroom and Gloom: Codes, Guides & Updates for Players",
+      "description": "Shroom and Gloom: Find Shroom and Gloom codes, guides, drops, and updates in one place. Covers what Shroom and Gloom players ask most. Read before you play.",
+      "h1": "Shroom and Gloom",
+      "lead": "Shroom and Gloom is the home hub for exact-game player needs around Shroom and Gloom.",
+      "outline": [
+        {
+          "h2": "What Shroom and Gloom Is",
+          "contentGoal": "One-screen game explanation using Fact Pack only."
+        },
+        {
+          "h2": "Who This Game Is For",
+          "contentGoal": "Audience fit, session style, and what new players should expect."
+        },
+        {
+          "h2": "Start Here: Codes, Guides, and Key Systems",
+          "contentGoal": "Route players to P0/P1 child pages with contextual anchors."
+        },
+        {
+          "h2": "Core Gameplay Snapshot",
+          "contentGoal": "Summarize confirmed mechanics and link deeper pages."
+        },
+        {
+          "h2": "Confirmed Facts vs Still Unknown",
+          "contentGoal": "Separate sourced facts from unknowns without inventing details."
+        },
+        {
+          "h2": "Related Shroom and Gloom Pages",
+          "contentGoal": "Explain sibling intents and when to open each related page."
+        },
+        {
+          "h2": "Shroom and Gloom Practical Checklist",
+          "contentGoal": "Give a player checklist grounded in confirmed basics only."
+        }
+      ],
+      "minWordCount": 1500,
+      "targetWordCount": 1700,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.02,
+        "max": 0.03
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "wiki",
+          "purpose": "Open the related wiki page"
+        }
+      ],
+      "anchorTextPlan": [
+        "Shroom and Gloom wiki"
+      ],
+      "faq": [
+        "What is Shroom and Gloom?",
+        "Where should new Shroom and Gloom players start?"
+      ],
+      "sourceRequirements": [
+        "Use only sourced Game Fact Pack statements.",
+        "Do not invent codes, rewards, dates, or stats."
+      ]
+    },
+    {
+      "slug": "wiki",
+      "primaryKeyword": "Shroom and Gloom wiki",
+      "secondaryKeywords": [
+        "Shroom and Gloom guide",
+        "Shroom and Gloom overview"
+      ],
+      "title": "Shroom and Gloom wiki: How to Start & Progress — Guide",
+      "description": "Shroom and Gloom wiki: Players looking for a compact Shroom and Gloom reference wiki page. What Shroom and Gloom players need on this topic, with confirmed…",
+      "h1": "Shroom and Gloom wiki",
+      "lead": "Shroom and Gloom wiki answers a distinct player need for Shroom and Gloom: Players looking for a compact Shroom and Gloom reference wiki page.",
+      "outline": [
+        {
+          "h2": "Quick Start",
+          "contentGoal": "First-screen steps for new players."
+        },
+        {
+          "h2": "Core Progression Loop",
+          "contentGoal": "Explain the main gameplay loop with sourced facts."
+        },
+        {
+          "h2": "Common Mistakes to Avoid",
+          "contentGoal": "Practical pitfalls tied to search intent."
+        },
+        {
+          "h2": "What Remains Unconfirmed",
+          "contentGoal": "Mark unknowns explicitly."
+        }
+      ],
+      "minWordCount": 900,
+      "targetWordCount": 1025,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.02,
+        "max": 0.03
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "",
+          "purpose": "Return to the game homepage"
+        }
+      ],
+      "anchorTextPlan": [
+        "Shroom and Gloom overview"
+      ],
+      "faq": [
+        "What is Shroom and Gloom wiki?",
+        "How is this different from the main Shroom and Gloom page?"
+      ],
+      "sourceRequirements": [
+        "Use only sourced Game Fact Pack statements.",
+        "Do not invent codes, rewards, dates, or stats."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "gameName": "Shroom and Gloom",
+  "mainKeyword": "Shroom and Gloom",
+  "opportunityMode": "breakout_new_game",
+  "siteStrategy": "Manual emergency skeleton: homepage plus a fixed /wiki reference page. Legal pages come from the template.",
+  "singlePageReason": null,
+  "pages": [
+    {
+      "slug": "",
+      "pageType": "home",
+      "primaryKeyword": "Shroom and Gloom",
+      "secondaryKeywords": [
+        "Shroom and Gloom wiki",
+        "Shroom and Gloom guide"
+      ],
+      "searchIntent": "Players looking up Shroom and Gloom basics and where to start.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": null,
+      "relatedSlugs": [
+        "wiki"
+      ],
+      "searchEvidence": [
+        "manual_fast_path"
+      ],
+      "gameEvidence": [
+        "operator_selected_manual_build"
+      ],
+      "reason": "Manual fast path homepage.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "manual_fast_path",
+      "deferred": false,
+      "factSupport": "weak",
+      "evidenceType": "manual"
+    },
+    {
+      "slug": "wiki",
+      "pageType": "guide",
+      "primaryKeyword": "Shroom and Gloom wiki",
+      "secondaryKeywords": [
+        "Shroom and Gloom guide",
+        "Shroom and Gloom overview"
+      ],
+      "searchIntent": "Players looking for a compact Shroom and Gloom reference wiki page.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        ""
+      ],
+      "searchEvidence": [
+        "manual_fast_path"
+      ],
+      "gameEvidence": [
+        "operator_selected_manual_build"
+      ],
+      "reason": "Manual fast path fixed /wiki child page.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "manual_fast_path",
+      "deferred": false,
+      "factSupport": "weak",
+      "evidenceType": "manual"
+    }
+  ],
+  "planningSummary": {
+    "discoveredKeywordCount": 0,
+    "gameSpecificKeywordCount": 0,
+    "intentCount": 0,
+    "launchReadyIntentCount": 0,
+    "suggestedLaunchPages": 2,
+    "deferredCount": 0,
+    "strategyNotes": "Manual build mode: fixed home + /wiki, no SERP/intent planning.",
+    "opportunityMode": "breakout_new_game",
+    "totalOpportunities": 2,
+    "launchCount": 2,
+    "mergeCount": 0,
+    "excludeCount": 0,
+    "candidateCount": 2
+  },
+  "deferredOpportunities": []
+}

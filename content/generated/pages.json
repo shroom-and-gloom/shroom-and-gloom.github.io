@@ -1,0 +1,1449 @@
+[
+  {
+    "enabled": true,
+    "slug": "achievements",
+    "pageType": "guide",
+    "navLabel": "Achievements",
+    "title": "Shroom and Gloom Achievements Guide – All 14",
+    "description": "Complete Shroom and Gloom achievements guide for all 14 Steam achievements, with known conditions, hidden entries, and patch 0.6.24 repair notes.",
+    "keywords": [
+      "Shroom and Gloom achievements",
+      "Shroom and Gloom achievement guide",
+      "Gloom Slayer"
+    ],
+    "primaryKeyword": "Shroom and Gloom achievements",
+    "secondaryKeywords": [
+      "Shroom and Gloom achievement guide",
+      "Gloom Slayer achievement"
+    ],
+    "searchIntent": "Players want a complete list of Shroom and Gloom achievements and how to unlock them.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1000,
+    "sourceNotes": [
+      "Steam community achievement stats page",
+      "Steam store achievement count",
+      "Patch 0.6.24 Steam news"
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "All 14 Steam achievements",
+      "heading": "Shroom and Gloom Achievements Guide",
+      "lead": "Shroom and Gloom ships with 14 Steam achievements. This page lists every achievement name from Steam, fills in publicly visible descriptions, and flags hidden text or patch repairs so you do not chase a broken objective."
+    },
+    "sections": [
+      {
+        "id": "answer-summary",
+        "heading": "Achievement Summary",
+        "paragraphs": [
+          "Steam lists exactly 14 achievements for Shroom and Gloom. Some descriptions are public on the global stats page. Others appear blank until you unlock them in-game. Official patch 0.6.24 specifically called out repairs for “Gloom Slayer” and “Would you love me if I were a worm.”",
+          "Use this page as a checklist. When Steam still hides a description, the table marks it as hidden rather than guessing a condition."
+        ]
+      },
+      {
+        "id": "before-you-start",
+        "heading": "Before You Start",
+        "paragraphs": [
+          "Update Shroom and Gloom through Steam before chasing rare achievements. Launch-week patches repaired at least two achievement triggers, so an outdated client can waste a clean run.",
+          "Open Steam’s achievement panel and this checklist side by side. Public descriptions here match Steam’s public text; hidden rows are intentionally incomplete.",
+          "Decide whether you are hunting mapping goals, collection goals, or combat milestones. That choice changes which path and quests you should prioritize first."
+        ],
+        "bullets": [
+          "Install the latest Steam build before retrying repaired achievements",
+          "Treat hidden Steam rows as unknown, not as community spoilers",
+          "Use Forgotten Path mapping runs for Spelunker-related progress",
+          "Keep a simple note of which achievements already popped on your profile"
+        ]
+      },
+      {
+        "id": "all-14-table",
+        "heading": "All 14 Shroom and Gloom Achievements",
+        "intro": "Names are from Steam. Descriptions are included only when Steam shows them publicly.",
+        "table": {
+          "caption": "Shroom and Gloom achievements (Steam global stats, reviewed 2026-09-17)",
+          "columns": [
+            "Achievement",
+            "Public Steam description",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Boy Scout",
+              "Set up your first campfire",
+              "Common early unlock"
+            ],
+            [
+              "Heartless",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Hidden on Steam / exact condition not publicly verified"
+            ],
+            [
+              "Collector",
+              "Pick up 100 different cards",
+              "Long-term collection goal"
+            ],
+            [
+              "Space is wrong here",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Hidden on Steam / exact condition not publicly verified"
+            ],
+            [
+              "Heavy Handed",
+              "Hold 20 cards in 1 hand",
+              "Hand-size challenge"
+            ],
+            [
+              "Gloom Slayer",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Repaired in official patch 0.6.24"
+            ],
+            [
+              "Spelunker",
+              "Map every tunnel of The Forgotten Path",
+              "Mapping / exploration goal"
+            ],
+            [
+              "DIE",
+              "Die 10 times",
+              "Progresses naturally over runs"
+            ],
+            [
+              "Gunk Slayer",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Hidden on Steam / exact condition not publicly verified"
+            ],
+            [
+              "Soft Headed",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Hidden on Steam / exact condition not publicly verified"
+            ],
+            [
+              "Whatever Man",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Hidden on Steam / exact condition not publicly verified"
+            ],
+            [
+              "MURDERER",
+              "Murder 1000 creatures.",
+              "Long grind; wording from Steam"
+            ],
+            [
+              "Urbexer",
+              "Hidden on Steam / exact condition not publicly verified",
+              "Hidden on Steam / exact condition not publicly verified"
+            ],
+            [
+              "Would you love me if I were a worm?",
+              "Kill 10 worms",
+              "Repaired in official patch 0.6.24"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Global unlock percentages change over time and are not treated as gameplay advice. They only help you see which achievements most players already found."
+        ]
+      },
+      {
+        "id": "easy-to-miss",
+        "heading": "Easy-to-Miss Achievements",
+        "paragraphs": [
+          "Spelunker is easy to miss if you race for bosses and never finish mapping. Its public description requires mapping every tunnel of The Forgotten Path. That overlaps with exploration quest goals discussed on the quests and Concerned Parent pages.",
+          "Collector requires 100 different cards, so narrow drafting can delay it. Heavy Handed needs a 20-card hand, which usually means building draw and hand-size effects on purpose rather than playing every card immediately.",
+          "Would you love me if I were a worm? is publicly described as killing 10 worms. If it failed to pop before patch 0.6.24, update the game and continue worm kills rather than assuming you are on the wrong objective."
+        ],
+        "links": [
+          {
+            "label": "Concerned Parent unlock notes",
+            "slug": "how-to-unlock-concerned-parent",
+            "description": "Mapping Forgotten Path also matters for character unlock reports."
+          },
+          {
+            "label": "Quests that overlap exploration goals",
+            "slug": "quests",
+            "description": "See Search Party and related exploration quests."
+          }
+        ]
+      },
+      {
+        "id": "patch-reminders",
+        "heading": "Patch Reminders for Achievements",
+        "paragraphs": [
+          "Official Steam patch notes for 0.6.24 state that achievement “Gloom Slayer” should work now and achievement “Would you love me if I were a worm” should work now. If the expected action completed before that patch and nothing unlocked, update and retry.",
+          "Hidden rows stay marked hidden. Reviewed on 2026-09-17 against Steam achievement stats and official patch notes."
+        ]
+      },
+      {
+        "id": "if-an-achievement-does-not-pop",
+        "heading": "If an Achievement Does Not Pop",
+        "paragraphs": [
+          "First confirm the public requirement, if Steam shows one. For worm kills or campfire setup, finish the action again after updating rather than restarting your whole profile.",
+          "Second, restart the client and re-check Steam Cloud sync. Early Access can delay the Steam overlay popup even when the unlock already registered.",
+          "Third, compare nearby systems. Spelunker tracks Forgotten Path mapping, while quests may track the same exploration with a different hand-in. An achievement popup is not automatic proof that a quest completed.",
+          "If the achievement was named in official patch 0.6.24 as repaired, prioritize updating over inventing a new condition."
+        ],
+        "links": [
+          {
+            "label": "Quests that overlap exploration goals",
+            "slug": "quests"
+          },
+          {
+            "label": "Paths guide for Forgotten Path mapping",
+            "slug": "paths"
+          }
+        ]
+      },
+      {
+        "id": "related-progress",
+        "heading": "Related Progress Systems",
+        "paragraphs": [
+          "Achievements are separate from quest unlocks, but the same run actions can advance both. Mapping Forgotten Path helps Spelunker and can also move exploration quests tracked on the quests page.",
+          "For character unlock questions, use the characters hub or the Concerned Parent guide instead of treating an achievement popup as a full unlock guide."
+        ],
+        "links": [
+          {
+            "label": "Characters and unlocks",
+            "slug": "characters"
+          },
+          {
+            "label": "Paths guide",
+            "slug": "paths"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Shroom and Gloom achievements are there?",
+        "answer": "Steam lists 14 achievements for Shroom and Gloom."
+      },
+      {
+        "question": "Why did Gloom Slayer not unlock?",
+        "answer": "Official patch 0.6.24 says achievement “Gloom Slayer” should work now. Update the game and retry the requirement if it failed around launch."
+      },
+      {
+        "question": "What does Spelunker require?",
+        "answer": "Steam’s public description says: Map every tunnel of The Forgotten Path."
+      },
+      {
+        "question": "Are all achievement descriptions public?",
+        "answer": "No. Several Steam entries still show blank descriptions until unlocked. This guide does not invent those hidden conditions."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-unlock-concerned-parent",
+      "quests",
+      "characters",
+      "paths"
+    ],
+    "lastReviewed": "2026-09-17",
+    "sources": [
+      {
+        "label": "Steam global achievements for Shroom and Gloom",
+        "url": "https://steamcommunity.com/stats/3271280/achievements/",
+        "type": "steam-data",
+        "typeLabel": "Steam achievement data",
+        "reviewed": "2026-09-17",
+        "note": "Public names, visible descriptions, and hidden rows as shown on Steam."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.24",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506163029",
+        "type": "official",
+        "typeLabel": "Official patch notes",
+        "reviewed": "2026-09-17",
+        "note": "Official repair notes for Gloom Slayer and Would you love me if I were a worm."
+      },
+      {
+        "label": "Shroom and Gloom Steam store page",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Confirms the game ships with 14 Steam Achievements."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-unlock-concerned-parent",
+    "pageType": "guide",
+    "navLabel": "Concerned Parent",
+    "title": "How to Unlock Concerned Parent in Shroom and Gloom",
+    "description": "How to unlock Concerned Parent in Shroom and Gloom: official unlock framing, player-reported quest steps, failure checks, and patch-aware tips.",
+    "keywords": [
+      "how to unlock Concerned Parent in Shroom and Gloom",
+      "Concerned Parent unlock",
+      "Shroom and Gloom Concerned Parent"
+    ],
+    "primaryKeyword": "how to unlock Concerned Parent in Shroom and Gloom",
+    "secondaryKeywords": [
+      "Concerned Parent unlock",
+      "Shroom and Gloom Concerned Parent"
+    ],
+    "searchIntent": "Players want direct steps to unlock the Concerned Parent character.",
+    "priority": "P0",
+    "navVisible": false,
+    "wordCountTarget": 900,
+    "sourceNotes": [
+      "Official EA launch notes list Concerned Parent in the roster",
+      "Official developer diary describes Concerned Parent as unlockable",
+      "Community quest databases and Steam discussions reviewed 2026-09-17"
+    ],
+    "factsStatus": "mixed",
+    "hero": {
+      "eyebrow": "Character unlock guide",
+      "heading": "How to Unlock Concerned Parent in Shroom and Gloom",
+      "lead": "Concerned Parent is a launch-roster character built around emotion, card draw, and mood tools. Official materials present the character as unlockable. Exact quest mapping below includes player-reported details and is labeled so you can tell official facts from community reports."
+    },
+    "sections": [
+      {
+        "id": "answer-first",
+        "heading": "Direct Answer",
+        "paragraphs": [
+          "Official status: Concerned Parent is one of the five Early Access launch characters named by Team Lazerbeam, and developer diary footage describes the character as unlockable rather than the default first pick.",
+          "Player-reported unlock path (reviewed 2026-09-17, not an official patch note): many players and independent Early Access databases connect character unlocks to quests such as Search Party, which asks you to discover all tunnels in The Forgotten Path. That objective lines up with the public Spelunker achievement text (“Map every tunnel of The Forgotten Path”).",
+          "Because Steam discussions also include threads about Concerned Parent failing to unlock, treat the mapping requirement as the best current community lead, then verify in your own quest log after updating the game."
+        ]
+      },
+      {
+        "id": "prerequisites",
+        "heading": "Prerequisites",
+        "paragraphs": [
+          "Play on the current Early Access build after installing the newest Steam update. Launch-week unlock bugs were actively discussed by players, and official patches in the first week focused on stability and achievement repairs.",
+          "Be ready to spend runs on Forgotten Path mapping instead of only boss rushing. If your quest log shows an exploration quest tied to discovering tunnels, prioritize unexplored branches and dead ends.",
+          "Official materials say advanced characters and Facility access come from the quest system. You should expect Concerned Parent to appear through that meta progression rather than through a store purchase."
+        ],
+        "bullets": [
+          "Update Steam to the latest Shroom and Gloom build",
+          "Open the in-game quest log before assuming the unlock is broken",
+          "Plan at least one Forgotten Path mapping-focused run",
+          "Do not rely on outdated demo assumptions"
+        ]
+      },
+      {
+        "id": "step-by-step",
+        "heading": "Step-by-Step Unlock Flow",
+        "intro": "Steps mix official framing with player-reported quest detail. Player-reported lines are marked.",
+        "steps": [
+          {
+            "heading": "Confirm Concerned Parent is not already unlocked",
+            "description": "Check the character select screen. If Concerned Parent is available, you are done. If it is locked, continue."
+          },
+          {
+            "heading": "Read your quest log",
+            "description": "Official launch notes say quests unlock advanced characters. Look for exploration or character unlock quests before inventing a new route."
+          },
+          {
+            "heading": "Player-reported: progress Search Party style mapping",
+            "description": "Community databases describe Search Party as “Discover all tunnels in the Forgotten Path” with a new character reward. Map every tunnel rather than only the shortest boss line."
+          },
+          {
+            "heading": "Finish the run or return safely so progress can save",
+            "description": "Launch materials highlight autosave after fights or escapes. Avoid force-closing during unlock hand-in moments."
+          },
+          {
+            "heading": "Recheck character select",
+            "description": "After the quest completes, return to character select and confirm Concerned Parent is playable."
+          }
+        ]
+      },
+      {
+        "id": "what-concerned-parent-does",
+        "heading": "What Concerned Parent Plays Like",
+        "paragraphs": [
+          "Official developer diary coverage describes Concerned Parent as an emotion- and draw-focused character searching for a missing child. Starting tools highlighted in that diary include Parental Instinct, which creates Hysterical Strength, a temporary mood that adds rage damage to attacks and grows as you draw cards.",
+          "The same official overview calls out card-draw tools and attacks that care about attacks in hand, such as Mama Bear and Dad Reflexes. That means the character rewards draw engines and hand density more than slow single-hit setups.",
+          "Use the characters page for roster context, then return here when you only need the unlock path."
+        ],
+        "links": [
+          {
+            "label": "Full characters overview",
+            "slug": "characters"
+          },
+          {
+            "label": "Card evaluation tips for draw engines",
+            "slug": "best-cards"
+          }
+        ]
+      },
+      {
+        "id": "failure-reasons",
+        "heading": "Why the Unlock Might Fail",
+        "paragraphs": [
+          "Player-reported: Steam discussion threads mention Concerned Parent staying locked after some runs. Incomplete quest progress is the first thing to check before assuming a client fault.",
+          "If the quest shows complete but the character stays locked, update to the latest patch, restart Steam, and re-open character select. Official patch notes have not published a dedicated Concerned Parent unlock hotfix line item as of 2026-09-17.",
+          "Spelunker and the unlock quest can progress together, but one completing does not automatically prove the other finished."
+        ],
+        "links": [
+          {
+            "label": "Spelunker and related achievements",
+            "slug": "achievements"
+          },
+          {
+            "label": "Quest checklist",
+            "slug": "quests"
+          }
+        ]
+      },
+      {
+        "id": "confirm-success",
+        "heading": "How to Confirm Success",
+        "paragraphs": [
+          "Success means Concerned Parent is selectable on the character screen and can start a run. A one-time popup or quest completion banner is helpful, but character select is the ground truth.",
+          "After unlocking, play one short run to confirm starting cards and Foresight behavior match the emotion/draw kit described in official diary material."
+        ]
+      },
+      {
+        "id": "version-notes",
+        "heading": "Version and Patch Notes",
+        "paragraphs": [
+          "Reviewed on 2026-09-17. Official sources confirm the character exists in the launch roster and is framed as unlockable. Community sources currently point at full Forgotten Path tunnel discovery as the practical unlock route.",
+          "If a future official patch or FAQ publishes exact Concerned Parent requirements, that official text should replace the player-reported section on this page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Concerned Parent in Shroom and Gloom at launch?",
+        "answer": "Yes. Official Early Access launch materials list Concerned Parent among the five playable characters."
+      },
+      {
+        "question": "Is Concerned Parent unlockable or starter-only?",
+        "answer": "Official developer diary material describes Concerned Parent as an unlockable character. Exact quest text is still labeled carefully on this page."
+      },
+      {
+        "question": "What is the player-reported unlock method?",
+        "answer": "As of 2026-09-17, community databases commonly point to discovering all Forgotten Path tunnels via a Search Party style quest. This is player-reported, not an official patch note."
+      },
+      {
+        "question": "Does Spelunker unlock Concerned Parent automatically?",
+        "answer": "Not necessarily. Spelunker is a Steam achievement for mapping every Forgotten Path tunnel. It may overlap with the unlock quest, but treat them as separate systems."
+      }
+    ],
+    "relatedSlugs": [
+      "characters",
+      "achievements",
+      "quests",
+      "paths"
+    ],
+    "lastReviewed": "2026-09-17",
+    "factsLabel": "Official facts + player-reported unlock steps",
+    "sources": [
+      {
+        "label": "Shroom and Gloom Early Access launch post",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506161903",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Lists Concerned Parent among the five Early Access launch characters and describes quests unlocking advanced characters."
+      },
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Official store framing for Early Access content and progression."
+      },
+      {
+        "label": "Community quest database (Search Party row)",
+        "url": "https://meowdb.com/db/shroom-and-gloom/quests",
+        "type": "player-reported",
+        "typeLabel": "Player-reported reference",
+        "reviewed": "2026-09-17",
+        "note": "Independent EA database listing Search Party as discovering all Forgotten Path tunnels for a new character reward."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "characters",
+    "pageType": "guide",
+    "navLabel": "Characters",
+    "title": "Shroom and Gloom Characters & Unlock Requirements",
+    "description": "Shroom and Gloom characters guide covering the Early Access roster, playstyles, unlock framing, and where Concerned Parent fits.",
+    "keywords": [
+      "Shroom and Gloom characters",
+      "Shroom and Gloom unlock",
+      "Concerned Parent"
+    ],
+    "primaryKeyword": "Shroom and Gloom characters",
+    "secondaryKeywords": [
+      "Shroom and Gloom unlock requirements",
+      "Concerned Parent"
+    ],
+    "searchIntent": "Players want a roster of Shroom and Gloom characters and how unlocks work.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1000,
+    "factsStatus": "mixed",
+    "hero": {
+      "eyebrow": "Launch roster",
+      "heading": "Shroom and Gloom Characters and Unlocks",
+      "lead": "Early Access launches with five named playable characters, each with unique starting combat and explore decks plus a base Foresight card. This page covers the confirmed roster, how unlocks are framed officially, and which details remain player-reported."
+    },
+    "sections": [
+      {
+        "id": "roster-table",
+        "heading": "Confirmed Early Access Characters",
+        "intro": "Names below come from official Early Access launch communications.",
+        "table": {
+          "caption": "Character comparison (official launch roster)",
+          "columns": [
+            "Character",
+            "Confirmed focus",
+            "Starting identity",
+            "Unlock status",
+            "Fact status"
+          ],
+          "rows": [
+            [
+              "Paperboy",
+              "Early Forgotten Path learning character in official diary coverage",
+              "Unique starting combat/explore decks + Foresight",
+              "Available in the Early Access roster",
+              "Official"
+            ],
+            [
+              "Lunchlady",
+              "Cooking and feed synergies in official diary coverage",
+              "Unique starting decks + Foresight",
+              "Listed in official launch roster",
+              "Official"
+            ],
+            [
+              "Concerned Parent",
+              "Emotion, card draw, and mood tools in official diary coverage",
+              "Unique starting decks + Foresight",
+              "Unlockable; see dedicated guide",
+              "Official + player-reported steps"
+            ],
+            [
+              "Janitor",
+              "Facility systems, cleaning, and gunk clarity in official patch notes",
+              "Unique starting decks + Foresight",
+              "Listed in official launch roster; Facility-oriented",
+              "Official"
+            ],
+            [
+              "Activist",
+              "Named in the official five-character launch list",
+              "Unique starting decks + Foresight",
+              "Listed in official launch roster",
+              "Official; kit details limited"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Official launch copy also says each character can discover powerful character cards while exploring The Underealm. That is separate from the base Foresight card every character starts with."
+        ]
+      },
+      {
+        "id": "playstyle-snapshots",
+        "heading": "Playstyle Snapshots",
+        "subsections": [
+          {
+            "heading": "Paperboy",
+            "paragraphs": [
+              "Official marketing and diary segments present Paperboy as a core Forgotten Path starting point for learning heat, routing, and early combat. Use Paperboy to learn the double-deck loop before specializing."
+            ]
+          },
+          {
+            "heading": "Concerned Parent",
+            "paragraphs": [
+              "Official diary coverage highlights Parental Instinct, Hysterical Strength, draw tools, and hand-based payoff attacks. For unlock steps, use the dedicated Concerned Parent page instead of expanding the full route here."
+            ]
+          },
+          {
+            "heading": "Lunchlady",
+            "paragraphs": [
+              "Official overview material links Lunchlady to cooking and feed synergies, including pet dog support in diary coverage. Expect food-oriented drafting to matter more than pure steel-damage lines."
+            ]
+          },
+          {
+            "heading": "Janitor",
+            "paragraphs": [
+              "Official patch 0.6.39 explicitly discusses Janitor and Facility difficulty for new players, plus cleaning and gunk clarity changes. Janitor is the cleanest official signal that Facility has its own mechanical language."
+            ]
+          },
+          {
+            "heading": "Activist",
+            "paragraphs": [
+              "Activist is confirmed in the official five-character launch list. This wiki does not invent starter deck lists or passive values beyond what official pages currently document."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to unlock Concerned Parent",
+            "slug": "how-to-unlock-concerned-parent",
+            "description": "Dedicated unlock steps and failure checks."
+          }
+        ]
+      },
+      {
+        "id": "which-character-first",
+        "heading": "Which Character Should You Try First?",
+        "paragraphs": [
+          "If you are still learning the double-deck loop, start with Paperboy on Forgotten Path. Official marketing and diary material teach the early route through that setup.",
+          "If you already understand food engines and want cooking synergies, Lunchlady is the cleaner next step based on official diary focus.",
+          "If you specifically want Facility systems, wait until that pathway is unlocked and then try Janitor. Official 0.6.39 notes say Facility and Janitor felt too complex for many new players at launch.",
+          "If Concerned Parent is still locked, finish the unlock guide first rather than forcing a partial kit comparison on this page."
+        ],
+        "links": [
+          {
+            "label": "How to unlock Concerned Parent",
+            "slug": "how-to-unlock-concerned-parent"
+          },
+          {
+            "label": "Compare Forgotten Path and Facility",
+            "slug": "paths"
+          }
+        ]
+      },
+      {
+        "id": "unlock-requirements",
+        "heading": "Unlock Requirements",
+        "paragraphs": [
+          "Official Early Access messaging is clear on the system and less granular on every objective: quests unlock advanced characters and pathway access. You progress the world by completing quests across runs rather than buying characters.",
+          "Player-reported (reviewed 2026-09-17): independent Early Access databases list quests such as Search Party (discover all Forgotten Path tunnels) and Want Some More (defeat Megashroom) as new-character rewards. Those rows are useful leads, but this page does not hard-map every reward to a specific character without stronger confirmation.",
+          "If you need one concrete unlock path today, use the Concerned Parent page. For pathway unlock talk, use the paths and quests pages."
+        ],
+        "links": [
+          {
+            "label": "Quests guide",
+            "slug": "quests"
+          },
+          {
+            "label": "Paths guide",
+            "slug": "paths"
+          }
+        ]
+      },
+      {
+        "id": "roadmap-characters",
+        "heading": "Future Characters and What Not to Assume",
+        "paragraphs": [
+          "Official Early Access plans mention additional character classes during the EA period. Fan databases may already list names that are not part of the current five-character launch roster. This page sticks to the official five until Team Lazerbeam or Steam news confirms more.",
+          "Do not assume demo characters, unused datamined names, or joke entries are currently playable."
+        ]
+      },
+      {
+        "id": "related-systems",
+        "heading": "Related Systems",
+        "paragraphs": [
+          "Characters change how both decks start, but pathway card pools still matter. A Facility run with Janitor is a different drafting environment from a Forgotten Path run with Paperboy or Concerned Parent.",
+          "Achievements can overlap with character goals, especially exploration achievements such as Spelunker, but achievements alone are not a full unlock guide."
+        ],
+        "links": [
+          {
+            "label": "Achievements guide",
+            "slug": "achievements"
+          },
+          {
+            "label": "Best cards and combos",
+            "slug": "best-cards"
+          }
+        ]
+      },
+      {
+        "id": "character-select-checklist",
+        "heading": "Character Select Checklist",
+        "bullets": [
+          "Confirm you are on the latest Early Access build",
+          "Check which characters are already selectable before starting a long mapping run",
+          "Match the character to the pathway you can currently access",
+          "Use quests for unlock progress, not achievement names alone",
+          "Open the Concerned Parent page when that character is the only blocker"
+        ],
+        "paragraphs": [
+          "Character identity changes your opening decks, but pathway card pools still decide what you can draft later. Keep both pages open when planning a progression night."
+        ],
+        "links": [
+          {
+            "label": "Quests guide",
+            "slug": "quests"
+          },
+          {
+            "label": "Best cards evaluation",
+            "slug": "best-cards"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Shroom and Gloom characters are in Early Access?",
+        "answer": "Official launch materials list five playable characters: Paperboy, Janitor, Lunchlady, Activist, and Concerned Parent."
+      },
+      {
+        "question": "Do characters have unique decks?",
+        "answer": "Yes. Official launch notes say each character has unique starting combat and explore decks plus a base Foresight card."
+      },
+      {
+        "question": "How do character unlocks work?",
+        "answer": "Official EA messaging says quests unlock advanced characters and pathway access. Exact quest-to-character mapping is partly player-reported and labeled on this site."
+      },
+      {
+        "question": "Where is the Concerned Parent unlock guide?",
+        "answer": "Use the dedicated page: How to Unlock Concerned Parent in Shroom and Gloom."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-unlock-concerned-parent",
+      "quests",
+      "paths",
+      "achievements"
+    ],
+    "lastReviewed": "2026-09-17",
+    "factsLabel": "Official roster facts + player-reported unlock leads",
+    "sources": [
+      {
+        "label": "Shroom and Gloom Early Access launch post",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506161903",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Official five-character launch roster and quest unlock framing."
+      },
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17"
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.39",
+        "url": "https://store.steampowered.com/news/app/3271280/view/676258159214461057",
+        "type": "official",
+        "typeLabel": "Official patch notes",
+        "reviewed": "2026-09-17",
+        "note": "Official notes on Janitor and Facility onboarding difficulty."
+      },
+      {
+        "label": "Community character database",
+        "url": "https://meowdb.com/db/shroom-and-gloom/characters",
+        "type": "player-reported",
+        "typeLabel": "Player-reported reference",
+        "reviewed": "2026-09-17",
+        "note": "Useful for flavor blurbs; playable EA roster on this site stays limited to the official five."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "quests",
+    "pageType": "guide",
+    "navLabel": "Quests",
+    "title": "Shroom and Gloom Quests – Characters & Card Unlocks",
+    "description": "Shroom and Gloom quests guide: how the unlock system works, community-reported objectives, and what remains unconfirmed for rewards.",
+    "keywords": [
+      "Shroom and Gloom quests",
+      "Shroom and Gloom unlocks",
+      "Search Party"
+    ],
+    "primaryKeyword": "Shroom and Gloom quests",
+    "secondaryKeywords": [
+      "Shroom and Gloom unlocks",
+      "Shroom and Gloom Search Party"
+    ],
+    "searchIntent": "Players want quest objectives and unlock rewards in Shroom and Gloom.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1000,
+    "factsStatus": "player-reported",
+    "hero": {
+      "eyebrow": "Meta progression",
+      "heading": "Shroom and Gloom Quests Guide",
+      "lead": "Quests are the official Early Access unlock backbone for advanced characters, pathway access, and broader card pools. This page explains the system with official framing first, then lists community-reported quest objectives with clear labels."
+    },
+    "sections": [
+      {
+        "id": "how-quests-work",
+        "heading": "How Quests Work",
+        "paragraphs": [
+          "Official Early Access launch notes say you unlock advanced characters and access to The Facility through quests. The same materials describe quests as the way the strange world grows as you venture deeper.",
+          "That means quests are account- or profile-level meta goals, not just one-run side objectives. Completing them changes what you can select in future runs.",
+          "Official store FAQ language also says the EA build includes multiple quests, synergies, and unlocks for replayability. Exact live quest text can change with patches, so always trust the in-game log over an older screenshot."
+        ]
+      },
+      {
+        "id": "how-to-track-quest-progress",
+        "heading": "How to Track Quest Progress",
+        "paragraphs": [
+          "Open the in-game quest log before and after each meaningful run. Official materials frame quests as meta progression, so progress should persist across runs once the client saves.",
+          "Separate three fields in your notes: the objective text, the reward type, and any assumed character mapping. Only the first two should be treated as actionable until the third is confirmed in your build.",
+          "When an objective mentions discovering tunnels, cards, or bosses, check the matching systems the same night: map completion, collection counters, and pathway unlock flags."
+        ],
+        "bullets": [
+          "Screenshot or copy the live quest wording if it differs from any guide",
+          "Record whether the reward is labeled card pack, new character, or new path",
+          "Do not equate an achievement popup with quest hand-in",
+          "Re-open character select and pathway select after a completion banner"
+        ]
+      },
+      {
+        "id": "before-repeating-a-run",
+        "heading": "What to Check Before Repeating a Run",
+        "paragraphs": [
+          "Confirm the quest is still incomplete. Repeating a finished objective will not create a second unlock.",
+          "Confirm the pathway required by the objective is the one you are loading. Forgotten Path mapping goals will not advance while you only play Facility.",
+          "Confirm your build is updated. Early Access patches can change onboarding and card behavior around Facility content, which affects how efficiently you can finish some objectives.",
+          "If your goal is a character unlock, keep the Concerned Parent page open as a companion checklist rather than expanding that whole route inside the quests hub."
+        ],
+        "links": [
+          {
+            "label": "Concerned Parent unlock companion",
+            "slug": "how-to-unlock-concerned-parent"
+          },
+          {
+            "label": "Paths guide",
+            "slug": "paths"
+          }
+        ]
+      },
+      {
+        "id": "quest-list",
+        "heading": "Quest List and Objectives",
+        "intro": "The following objective list is player-reported from Early Access community databases reviewed on 2026-09-17. Reward names are kept general unless stronger confirmation exists.",
+        "table": {
+          "caption": "Player-reported quest objectives (verify in-game)",
+          "columns": [
+            "Quest",
+            "Player-reported objective",
+            "Player-reported reward type",
+            "Confidence"
+          ],
+          "rows": [
+            [
+              "Adventurous",
+              "Discover 20 exploration cards",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "Armed",
+              "Discover 30 combat cards",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "Camper",
+              "Fill all spots in a campsite",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "First Course",
+              "Defeat Lekker Limbs",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "Gloom Walker",
+              "Reach the gloom",
+              "New path",
+              "Player-reported"
+            ],
+            [
+              "King's Quest",
+              "Satisfy The Toad king's Hunger",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "Meltdown",
+              "Gain 20 extra damage from rage",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "Need For Feed",
+              "Serve slop 25 times",
+              "Card pack",
+              "Player-reported"
+            ],
+            [
+              "Search Party",
+              "Discover all tunnels in the Forgotten Path",
+              "New character",
+              "Player-reported"
+            ],
+            [
+              "Want Some More",
+              "Defeat Megashroom",
+              "New character",
+              "Player-reported"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "We intentionally do not invent precise card-pack contents or guarantee which character each “new character” row unlocks. Use the in-game quest panel as the final authority."
+        ]
+      },
+      {
+        "id": "character-and-path-unlocks",
+        "heading": "Character and Path Unlocks",
+        "paragraphs": [
+          "Officially, quests gate advanced characters and Facility access. Player-reported rows currently point to Search Party and Want Some More as character rewards, and Gloom Walker as a path reward.",
+          "If your goal is Concerned Parent, read the dedicated unlock page. If your goal is Facility, focus on quests that mention reaching The Gloom or unlocking the second pathway, then confirm in-game.",
+          "Spelunker’s public achievement text matches the Search Party exploration fantasy, which is why mapping guides and quest guides often cross-link."
+        ],
+        "links": [
+          {
+            "label": "Concerned Parent unlock page",
+            "slug": "how-to-unlock-concerned-parent"
+          },
+          {
+            "label": "Characters roster",
+            "slug": "characters"
+          },
+          {
+            "label": "Paths comparison",
+            "slug": "paths"
+          }
+        ]
+      },
+      {
+        "id": "common-mistakes",
+        "heading": "Common Quest Mistakes",
+        "bullets": [
+          "Rushing bosses while leaving whole Forgotten Path tunnels unmapped",
+          "Assuming an achievement popup equals a quest hand-in",
+          "Chasing Facility content before the pathway unlock quest is actually complete",
+          "Trusting outdated demo quest names after a major EA patch",
+          "Filling reward columns with guessed card names"
+        ],
+        "paragraphs": [
+          "When a quest seems stuck, compare the exact wording in your client with this page. If the client differs, the client wins."
+        ]
+      },
+      {
+        "id": "what-we-do-not-fill-in",
+        "heading": "Reward and Mapping Limits",
+        "paragraphs": [
+          "Exact card-pack contents and exact character mapping for each “new character” reward stay unverified here. The in-game quest panel is the final authority.",
+          "For drafting after a pack unlock, use the best cards page. For achievement overlaps, use the achievements page."
+        ],
+        "links": [
+          {
+            "label": "Best cards guide",
+            "slug": "best-cards"
+          },
+          {
+            "label": "Achievements guide",
+            "slug": "achievements"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What do Shroom and Gloom quests unlock?",
+        "answer": "Official EA materials say quests unlock advanced characters and Facility access, along with broader progression and card-pool growth."
+      },
+      {
+        "question": "Is the quest list above official?",
+        "answer": "The system is official. The objective table is labeled player-reported from community Early Access databases and should be verified in your quest log."
+      },
+      {
+        "question": "Which quest unlocks Concerned Parent?",
+        "answer": "Official notes do not publish a one-line mapping on Steam news. Community reports often point at full Forgotten Path tunnel discovery. See the Concerned Parent page."
+      },
+      {
+        "question": "Can quest rewards change in Early Access?",
+        "answer": "Yes. Early Access patches can adjust progression. Prefer the live in-game quest text over any static guide."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-unlock-concerned-parent",
+      "characters",
+      "achievements",
+      "best-cards"
+    ],
+    "lastReviewed": "2026-09-17",
+    "factsLabel": "Official quest system + player-reported objectives",
+    "sources": [
+      {
+        "label": "Shroom and Gloom Early Access launch post",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506161903",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Official statement that quests unlock advanced characters and Facility access."
+      },
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "EA FAQ language about multiple quests, synergies, and unlocks."
+      },
+      {
+        "label": "Community quest objectives list",
+        "url": "https://meowdb.com/db/shroom-and-gloom/quests",
+        "type": "player-reported",
+        "typeLabel": "Player-reported reference",
+        "reviewed": "2026-09-17",
+        "note": "Independent EA database used for objective wording; verify every row in your quest log."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "best-cards",
+    "pageType": "guide",
+    "navLabel": "Cards",
+    "title": "Shroom and Gloom Best Cards & Mega Combos",
+    "description": "Shroom and Gloom best cards guide: how to evaluate combat and explore cards, build mega combos, and avoid fake tier lists during Early Access.",
+    "keywords": [
+      "Shroom and Gloom best cards",
+      "Shroom and Gloom combos",
+      "Shroom and Gloom mega combos"
+    ],
+    "primaryKeyword": "Shroom and Gloom best cards",
+    "secondaryKeywords": [
+      "Shroom and Gloom mega combos",
+      "Shroom and Gloom card guide"
+    ],
+    "searchIntent": "Players want strong cards and combo direction for Shroom and Gloom.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 900,
+    "factsStatus": "mixed",
+    "hero": {
+      "eyebrow": "Evaluation over fake tiers",
+      "heading": "Shroom and Gloom Best Cards and Combos",
+      "lead": "“Best cards” in Shroom and Gloom depends on pathway, character, and whether a card helps the combat deck, the explore deck, or a growth engine. This page teaches evaluation criteria and official combo themes without inventing unverified damage numbers or copying rival wikis."
+    },
+    "sections": [
+      {
+        "id": "evaluation-criteria",
+        "heading": "How to Judge the Best Cards",
+        "paragraphs": [
+          "Official store copy emphasizes two decks, infinite growth/modification, and food-based recovery. A card is “best” when it advances one of those pillars without wrecking the other deck’s tempo.",
+          "Score combat cards on consistency, scaling potential, and food or resource generation. Score explore cards on routing power, upgrade access, healing, and whether they set up the next fight. Score camp or modify tools on whether they create repeatable mega-combos.",
+          "Because Early Access balance changes quickly, a card that was strong on launch weekend may be patched a few days later. Official 0.6.39 notes adjusted multiple Facility cards and systems, which is a reminder to re-check text in your build."
+        ],
+        "table": {
+          "caption": "Practical evaluation checklist",
+          "columns": [
+            "Question",
+            "Why it matters",
+            "Red flag"
+          ],
+          "rows": [
+            [
+              "Does it help both this fight and future scaling?",
+              "Official growth fantasy rewards long-run modification",
+              "One-fight novelty with no leftover value"
+            ],
+            [
+              "Does it feed your character plan?",
+              "Concerned Parent wants draw/mood; Janitor cares about cleaning/gunk clarity",
+              "Random high rarity that fights your kit"
+            ],
+            [
+              "Does it belong in combat or explore?",
+              "Official double-deck design punishes mixed-up roles",
+              "Clogging combat with pure routing tools"
+            ],
+            [
+              "Did a recent patch change it?",
+              "0.6.39 reworked multiple Facility cards",
+              "Using pre-patch screenshots as truth"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "by-role",
+        "heading": "Best Cards by Role",
+        "subsections": [
+          {
+            "heading": "Combat finishers and scalers",
+            "paragraphs": [
+              "Look for attacks that grow, gain rage, or improve when you draw or eat. Official Concerned Parent examples include Parental Instinct into Hysterical Strength, then draw payoffs and hand-size attacks such as Mama Bear. Those are official illustrations of the rage/draw mega-combo fantasy, not a universal tier list."
+            ]
+          },
+          {
+            "heading": "Food and recovery engines",
+            "paragraphs": [
+              "Official store text makes eating and soup cooking a central combat idea. Cards or camp tools that create reliable food, improve roasted enemies, or convert kills into healing often outperform raw shield equivalents."
+            ]
+          },
+          {
+            "heading": "Explore and upgrade tools",
+            "paragraphs": [
+              "Explore cards that open routes, create camp upgrades, or permanently improve cards support the official “modify forever” promise. A slightly weaker attack that you can grow repeatedly can beat a flashy one-off."
+            ]
+          },
+          {
+            "heading": "Facility and gunk specialists",
+            "paragraphs": [
+              "Official 0.6.39 notes clarify cleaning, over-cleaning into sparkle states, and many gunk-related cards. In Facility runs, cards that make gunk readable and controllable can be more valuable than generic Forgotten Path damage staples."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mega-combo-ideas",
+        "heading": "Mega Combo Ideas",
+        "paragraphs": [
+          "Combo family 1: Draw into rage. Official Concerned Parent material shows temporary rage moods that grow whenever you draw, then convert a full hand of attacks into a huge payoff.",
+          "Combo family 2: Cook and eat. Official store copy pushes roasting, eating, and soup crafting. Draft combat cards that create food and explore or camp tools that upgrade food quality.",
+          "Combo family 3: Grow a starter forever. Official marketing repeatedly sells infinite modification. Keep a simple attack if camps and modify structures can push it beyond rare one-offs.",
+          "Combo family 4: Facility cleaning loops. Official patch notes discuss cleaning explanations, temporary Melty/Gunk Pile behavior, and related card edits. Build around understanding gunk rather than ignoring it."
+        ],
+        "links": [
+          {
+            "label": "Paths change available card pools",
+            "slug": "paths"
+          },
+          {
+            "label": "Character kits change priorities",
+            "slug": "characters"
+          }
+        ]
+      },
+      {
+        "id": "early-vs-late",
+        "heading": "Early Run vs Late Run Choices",
+        "paragraphs": [
+          "Early: prefer reliable damage, any stable food source, and explore cards that prevent dead-end routing. Late: prefer multiplicative growth, recursive make-card effects, and tools that break a specific boss pattern.",
+          "Official patch 0.6.24 also noted that permanent food and data should keep Endless when permanently copied. That matters for late-run copying plans."
+        ]
+      },
+      {
+        "id": "version-caution",
+        "heading": "Version Caution and Named Patch Examples",
+        "paragraphs": [
+          "Named examples from official patch notes include Acid Vial (fixed in 0.6.24) and many Facility cards adjusted in 0.6.39 such as Sweep, Gross Feast, Flash Turret, Analysis, and others. Those mentions are for version awareness, not automatic “pick these” recommendations.",
+          "This page will not publish a copied Fandom tier list or fabricated DPS table. If a card’s current numbers are not verified in the live client, we discuss the role instead."
+        ],
+        "links": [
+          {
+            "label": "Quest unlocks that expand card pools",
+            "slug": "quests"
+          },
+          {
+            "label": "Achievements tied to collection goals",
+            "slug": "achievements"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the best cards in Shroom and Gloom?",
+        "answer": "It depends on character and pathway. Prioritize cards that support your deck role, scaling plan, and food or gunk systems rather than chasing a universal tier list."
+      },
+      {
+        "question": "Do card values change in Early Access?",
+        "answer": "Yes. Official patches such as 0.6.39 adjusted multiple cards and Facility behaviors. Always verify text in your build."
+      },
+      {
+        "question": "Should I remove starter cards?",
+        "answer": "Not automatically. Official marketing highlights growing low-level starters into powerful attacks, so some starters are long-term engines."
+      },
+      {
+        "question": "Where do combo styles differ by path?",
+        "answer": "Forgotten Path leans into the original fungal food and exploration fantasy. Facility adds its own pool and gunk/cleaning language. See the paths guide."
+      }
+    ],
+    "relatedSlugs": [
+      "paths",
+      "characters",
+      "quests"
+    ],
+    "lastReviewed": "2026-09-17",
+    "factsLabel": "Official systems + editor evaluation criteria",
+    "sources": [
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Official description of double-deck play, card growth, and food combat fantasy."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.24",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506163029",
+        "type": "official",
+        "typeLabel": "Official patch notes",
+        "reviewed": "2026-09-17",
+        "note": "Mentions Acid Vial fix and Endless property on permanent food/data copies."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.39",
+        "url": "https://store.steampowered.com/news/app/3271280/view/676258159214461057",
+        "type": "official",
+        "typeLabel": "Official patch notes",
+        "reviewed": "2026-09-17",
+        "note": "Facility and cleaning-card behavior changes that affect evaluation."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "paths",
+    "pageType": "guide",
+    "navLabel": "Paths",
+    "title": "Shroom and Gloom Paths – Forgotten Path vs Facility",
+    "description": "Shroom and Gloom paths guide comparing Forgotten Path and Facility, unlock framing, risks, rewards, and official patch changes.",
+    "keywords": [
+      "Shroom and Gloom paths",
+      "Forgotten Path",
+      "Facility Shroom and Gloom"
+    ],
+    "primaryKeyword": "Shroom and Gloom paths",
+    "secondaryKeywords": [
+      "Forgotten Path",
+      "Shroom and Gloom Facility"
+    ],
+    "searchIntent": "Players want to understand Forgotten Path versus Facility in Shroom and Gloom.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1000,
+    "factsStatus": "mixed",
+    "hero": {
+      "eyebrow": "Route choice",
+      "heading": "Shroom and Gloom Paths Guide",
+      "lead": "Early Access launches with two distinct Shroom and Gloom paths toward The Gloom. Forgotten Path is the established fungal route; Facility is the second pathway with its own cards, enemies, and systems. This guide compares them using official materials and patch-aware notes."
+    },
+    "sections": [
+      {
+        "id": "path-overview",
+        "heading": "Path Overview",
+        "paragraphs": [
+          "Official Early Access FAQ language says the current build offers two distinct pathways with unique characters and roughly 300 explore and combat cards per pathway. Official launch notes specifically celebrate The Mysterious Facility as a newly discoverable path with unique card pools, enemies, and rewards. Those two Shroom and Gloom paths are the only live routes covered here.",
+          "Developers also say a third pathway is planned during Early Access. This page only details the two live routes."
+        ],
+        "table": {
+          "caption": "Forgotten Path vs Facility at a glance",
+          "columns": [
+            "Topic",
+            "Forgotten Path",
+            "Facility"
+          ],
+          "rows": [
+            [
+              "Official role",
+              "Core fungal pathway featured throughout marketing and diary content",
+              "Second EA pathway with unique pool and systems"
+            ],
+            [
+              "Learning curve",
+              "Better onboarding for most new players",
+              "Officially called out as too challenging/complex for many new players before 0.6.39 tweaks"
+            ],
+            [
+              "Signature ideas",
+              "Torches, fungal exploration, food-forward fantasy",
+              "Gunk, machines, data, cleaning, Janitor-linked tools"
+            ],
+            [
+              "Patch attention",
+              "0.6.24 added more torch spawn locations",
+              "0.6.39 focused on Janitor/Facility onboarding and many P2 card behaviors"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "forgotten-path",
+        "heading": "Forgotten Path",
+        "paragraphs": [
+          "Forgotten Path is the route most trailer and diary content teaches first. It is also where public achievement Spelunker asks you to map every tunnel, so exploration completionists will spend serious time here.",
+          "Official patch 0.6.24 improved Forgotten Path by allowing more torches to spawn in more locations. If darkness and warmth pressure felt brutal at launch, update before judging the route.",
+          "Player-reported quest data also concentrates several early unlock objectives on Forgotten Path exploration and bosses. That makes the route valuable even after Facility unlocks."
+        ],
+        "links": [
+          {
+            "label": "Spelunker achievement details",
+            "slug": "achievements"
+          },
+          {
+            "label": "Concerned Parent mapping notes",
+            "slug": "how-to-unlock-concerned-parent"
+          }
+        ]
+      },
+      {
+        "id": "facility",
+        "heading": "Facility",
+        "paragraphs": [
+          "Facility is officially positioned as a full second path, not a cosmetic palette swap. Launch notes promise unique cards, enemies, and rewards. Diary material previews gunk, machines, data, and Janitor-focused play.",
+          "Official patch 0.6.39 states that feedback and analytics showed Janitor and Facility were too challenging or complex for most new players, with only a small majority of runs ending in The Gloom. The patch aimed to make the playstyle easier to pick up without simply making Janitor outright stronger.",
+          "If you are new, unlock and sample Facility after you understand Forgotten Path basics. If you already like cleaning, resource conversion, and weird machine synergies, Facility is the deeper sandbox."
+        ],
+        "links": [
+          {
+            "label": "Janitor and roster context",
+            "slug": "characters"
+          },
+          {
+            "label": "Facility card evaluation tips",
+            "slug": "best-cards"
+          }
+        ]
+      },
+      {
+        "id": "how-to-choose",
+        "heading": "Which Path to Choose",
+        "bullets": [
+          "Choose Forgotten Path to learn the double-deck loop and finish mapping achievements",
+          "Choose Forgotten Path while chasing player-reported character unlock exploration quests",
+          "Choose the Facility path after unlock when you want a separate card pool and gunk systems",
+          "Choose Facility with Janitor if you specifically want to master cleaning interactions",
+          "Switch paths when your quest log demands it rather than forcing one identity forever"
+        ],
+        "paragraphs": [
+          "Path choice depends on your goal, not on a universal ranking. There is no single best answer among the current Shroom and Gloom paths.",
+          "Official content density is split on purpose, with about 300 explore and combat cards per pathway according to the EA FAQ."
+        ]
+      },
+      {
+        "id": "risks-and-rewards",
+        "heading": "Risks, Rewards, and Patch Changes",
+        "paragraphs": [
+          "Risk on Forgotten Path is often exploration completeness and resource pressure across many tunnels. Risk on Facility is system literacy: misreading gunk or cleaning can collapse a run even if your raw damage looks fine.",
+          "Reward on both paths is access to unique cards and encounters. Official EA plans also say future updates will add quests and challenges across all pathways, so investing in both routes remains useful.",
+          "Reviewed on 2026-09-17 against Steam store FAQ language and official patch notes for 0.6.24 and 0.6.39."
+        ],
+        "links": [
+          {
+            "label": "Quest unlocks for pathway access",
+            "slug": "quests"
+          },
+          {
+            "label": "Achievements tied to mapping",
+            "slug": "achievements"
+          }
+        ]
+      },
+      {
+        "id": "path-choice-by-goal",
+        "heading": "Path Choice by Player Goal",
+        "paragraphs": [
+          "Goal: learn the game. Take Forgotten Path first. Official trailer and diary teaching, plus lower onboarding complexity, make it the safer classroom.",
+          "Goal: finish Spelunker or mapping quests. Stay on Forgotten Path until every tunnel is discovered. Switching early only delays those objectives.",
+          "Goal: see new card pools. Unlock and enter Facility after the pathway quest is complete. Official launch notes sell Facility as a full second pool, not a reskin.",
+          "Goal: practice Janitor systems. Use the Facility path after 0.6.39. Official notes focused that patch on making Facility and Janitor easier to understand for newer players."
+        ],
+        "table": {
+          "caption": "Quick decision matrix for Shroom and Gloom paths",
+          "columns": [
+            "Your goal",
+            "Preferred path",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Learn combat + explore loop",
+              "Forgotten Path",
+              "Official teaching route; fewer new-player warnings"
+            ],
+            [
+              "Mapping achievement / exploration quests",
+              "Forgotten Path",
+              "Spelunker and tunnel-discovery objectives live here"
+            ],
+            [
+              "New card pool and machine/gunk systems",
+              "Facility path",
+              "Official second pathway with unique rewards"
+            ],
+            [
+              "Janitor mastery",
+              "Facility path",
+              "Official patch focus on Janitor + Facility clarity"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "version-and-progress-checks",
+        "heading": "Version Changes and Progress Checks",
+        "paragraphs": [
+          "After a patch, re-check torch pressure on Forgotten Path and cleaning text on Facility before judging either route. Official 0.6.24 and 0.6.39 notes both touched path feel directly.",
+          "If a pathway still will not load, verify the unlock quest in your log and re-enter from the mode select screen after a client restart. Do not assume a missing path is a permanent account fault until those checks fail.",
+          "Keep achievements and quests in mind when planning path choice, but leave detailed card evaluation to the best cards page so this guide stays focused on route decisions."
+        ],
+        "links": [
+          {
+            "label": "Achievements tied to mapping",
+            "slug": "achievements"
+          },
+          {
+            "label": "Quest unlocks for pathway access",
+            "slug": "quests"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many paths are in Shroom and Gloom right now?",
+        "answer": "Official Early Access materials describe two distinct pathways, with a third planned later during Early Access."
+      },
+      {
+        "question": "What is the difference between Forgotten Path and Facility?",
+        "answer": "Forgotten Path is the core fungal route. Facility is a second pathway with its own card pool, enemies, and systems such as gunk and machines."
+      },
+      {
+        "question": "Which path should beginners play?",
+        "answer": "Most new players should learn Forgotten Path first. Official 0.6.39 notes acknowledge Facility and Janitor were too challenging for many newcomers at launch."
+      },
+      {
+        "question": "Did patches change the paths?",
+        "answer": "Yes. 0.6.24 improved Forgotten Path torch spawns. 0.6.39 focused on Facility and Janitor onboarding plus many related card behaviors."
+      }
+    ],
+    "relatedSlugs": [
+      "best-cards",
+      "characters",
+      "quests",
+      "achievements"
+    ],
+    "lastReviewed": "2026-09-17",
+    "factsLabel": "Official path framing + patch-aware notes",
+    "sources": [
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Official EA FAQ language about two distinct pathways and ~300 cards per pathway."
+      },
+      {
+        "label": "Shroom and Gloom Early Access launch post",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506161903",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-17",
+        "note": "Introduces Facility as a newly discoverable second path."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.24",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506163029",
+        "type": "official",
+        "typeLabel": "Official patch notes",
+        "reviewed": "2026-09-17",
+        "note": "Forgotten Path torch spawn improvement."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.39",
+        "url": "https://store.steampowered.com/news/app/3271280/view/676258159214461057",
+        "type": "official",
+        "typeLabel": "Official patch notes",
+        "reviewed": "2026-09-17",
+        "note": "Facility and Janitor onboarding adjustments."
+      }
+    ]
+  }
+]
