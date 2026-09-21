@@ -61,11 +61,11 @@ Copy `.env.example` to `.env.local` for local testing. Never commit `.env.local`
 All integrations are off when their environment values are empty.
 
 - Google Analytics 4 uses `NEXT_PUBLIC_GA_MEASUREMENT_ID` or `content/generated/integrations.json` (`gaMeasurementId`, e.g. `G-XXXXXXXX`).
-- Native advertising requires both `NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL` and `NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID`.
+- Adsterra units (responsive banner, native banner, social bar) are configured in `config/adsterra.ts` from this site's official GET CODE.
 - Optional meta verification uses `GOOGLE_SITE_VERIFICATION` / `BING_SITE_VERIFICATION` (or the same fields in `integrations.json`).
 - Google Search Console HTML file verification: place `public/google*.html`. Next copies it to `out/` on build; `scripts/audit-seo.ts` skips these technical files and still requires them to exist in the build output.
 
-The native ad component has no label, reserved height or fallback placeholder. The Privacy page describes only the integrations enabled for that build.
+Ad slots show a small Advertisement label and reserve banner height to limit layout shift. The Privacy page describes only the integrations enabled for that build.
 
 ## SEO and launch safety
 

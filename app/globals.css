@@ -144,6 +144,45 @@ html[data-header-style="border"] .site-nav-link {
 
 [data-native-ad-slot]:empty { display: none; }
 
+.ad-slot {
+  margin: 1.25rem 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.ad-label {
+  margin: 0 0 .4rem;
+  text-align: center;
+  font-size: .7rem;
+  line-height: 1;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: hsl(var(--muted-foreground));
+  opacity: .75;
+}
+.ad-slot-banner-frame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.ad-slot-banner-frame > * {
+  max-width: 100%;
+}
+.ad-slot-native {
+  padding: .85rem 1rem;
+  border: 1px solid hsl(var(--border));
+  border-radius: var(--radius);
+  background: hsl(var(--card) / .55);
+  box-shadow: none;
+}
+.ad-slot-native .ad-label {
+  text-align: left;
+  margin-bottom: .65rem;
+}
+
 /* Wiki skin — denser editorial layout. Unprefixed rules above stay portal defaults. */
 html[data-skin="wiki"] .site-container {
   max-width: 72rem;

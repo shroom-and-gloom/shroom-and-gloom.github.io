@@ -233,7 +233,8 @@
       "how-to-unlock-concerned-parent",
       "quests",
       "characters",
-      "paths"
+      "paths",
+      "secret-tunnel"
     ],
     "lastReviewed": "2026-09-17",
     "sources": [
@@ -424,7 +425,8 @@
       "characters",
       "achievements",
       "quests",
-      "paths"
+      "paths",
+      "secret-tunnel"
     ],
     "lastReviewed": "2026-09-17",
     "factsLabel": "Official facts + player-reported unlock steps",
@@ -578,6 +580,11 @@
             "label": "How to unlock Concerned Parent",
             "slug": "how-to-unlock-concerned-parent",
             "description": "Dedicated unlock steps and failure checks."
+          },
+          {
+            "label": "Janitor guide",
+            "slug": "janitor",
+            "description": "Facility-facing playstyle, availability notes, and patch changes."
           }
         ]
       },
@@ -693,7 +700,8 @@
       "how-to-unlock-concerned-parent",
       "quests",
       "paths",
-      "achievements"
+      "achievements",
+      "janitor"
     ],
     "lastReviewed": "2026-09-17",
     "factsLabel": "Official roster facts + player-reported unlock leads",
@@ -960,7 +968,8 @@
       "how-to-unlock-concerned-parent",
       "characters",
       "achievements",
-      "best-cards"
+      "best-cards",
+      "secret-tunnel"
     ],
     "lastReviewed": "2026-09-17",
     "factsLabel": "Official quest system + player-reported objectives",
@@ -1156,7 +1165,8 @@
     "relatedSlugs": [
       "paths",
       "characters",
-      "quests"
+      "quests",
+      "janitor"
     ],
     "lastReviewed": "2026-09-17",
     "factsLabel": "Official systems + editor evaluation criteria",
@@ -1269,6 +1279,11 @@
           {
             "label": "Concerned Parent mapping notes",
             "slug": "how-to-unlock-concerned-parent"
+          },
+          {
+            "label": "Secret Tunnel mapping guide",
+            "slug": "secret-tunnel",
+            "description": "Tunnel entrances, mapping checks, and Spelunker notes."
           }
         ]
       },
@@ -1407,7 +1422,8 @@
       "best-cards",
       "characters",
       "quests",
-      "achievements"
+      "achievements",
+      "secret-tunnel"
     ],
     "lastReviewed": "2026-09-17",
     "factsLabel": "Official path framing + patch-aware notes",
@@ -1445,5 +1461,561 @@
         "note": "Facility and Janitor onboarding adjustments."
       }
     ]
+  },
+  {
+    "enabled": true,
+    "slug": "janitor",
+    "pageType": "guide",
+    "navLabel": "Janitor",
+    "title": "Shroom and Gloom Janitor Guide – Cards & Playstyle",
+    "description": "Shroom and Gloom Janitor guide covering confirmed playstyle, starting cards, unlock information, Facility tips, and current Early Access changes.",
+    "keywords": [
+      "shroom and gloom janitor",
+      "Janitor Shroom and Gloom",
+      "Shroom and Gloom Facility Janitor"
+    ],
+    "primaryKeyword": "shroom and gloom janitor",
+    "secondaryKeywords": [
+      "Janitor starting cards",
+      "Janitor Facility guide",
+      "Shroom and Gloom cleaning gunk"
+    ],
+    "searchIntent": "Players searching for Shroom and Gloom Janitor want playstyle, starter identity, unlock or availability status, and Facility tips.",
+    "priority": "P1",
+    "navVisible": false,
+    "wordCountTarget": 1100,
+    "factsStatus": "mixed",
+    "factsLabel": "Official roster and patch facts + player-reported kit leads",
+    "hero": {
+      "eyebrow": "Character guide",
+      "heading": "Shroom and Gloom Janitor Guide",
+      "lead": "This Shroom and Gloom Janitor guide collects confirmed Early Access facts about Facility-facing play, starting-deck framing, availability, and patch changes, while labeling unverified starter-card claims as Player-reported."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer",
+        "paragraphs": [
+          "Shroom and Gloom Janitor is one of the five playable characters named in Team Lazerbeam’s Early Access launch communications, alongside Paperboy, Lunchlady, Activist, and Concerned Parent. Official launch copy says every character begins with unique combat and explore starting decks plus a base Foresight card.",
+          "Official diary and patch language place Janitor next to Facility systems such as cleaning, gunk, machines, and data. Patch 0.6.24 previewed balance work to make Janitor less punishing, and patch 0.6.39 said Janitor and Facility felt too challenging or complex for many new players.",
+          "This page will not invent a full starter-card spreadsheet, unpublished unlock quest text, or uncited card changes. Community gaps stay labeled Player-reported."
+        ],
+        "links": [
+          {
+            "label": "Full character roster",
+            "slug": "characters",
+            "description": "Official five-character launch list and unlock framing."
+          },
+          {
+            "label": "Forgotten Path vs Facility",
+            "slug": "paths",
+            "description": "Why Janitor play usually points at Facility systems."
+          }
+        ]
+      },
+      {
+        "id": "who-is-the-janitor",
+        "heading": "Who Is the Janitor?",
+        "paragraphs": [
+          "In official Early Access messaging, Janitor is part of the named launch roster rather than a side cameo. Each of those characters is sold on unique double-deck starting setups plus a base Foresight card, so Janitor changes both combat and routing.",
+          "Developer Facility overview material previewed gunk, machines, data, and Janitor together. This wiki therefore treats Janitor as the clearest official signal that Facility has its own mechanical language.",
+          "Community databases also publish short flavor blurbs. Player-reported / Community-reported flavor for Janitor describes heading out to find a discreet dumping spot and discovering that the trash took on a life of its own. Treat that as atmosphere, not a patch note."
+        ]
+      },
+      {
+        "id": "availability-or-unlock",
+        "heading": "Janitor Availability or Unlock Status",
+        "paragraphs": [
+          "Official launch copy names Janitor in the playable Early Access roster. The same materials also say quests unlock advanced characters and Facility access, so the five named characters are not all free of progression gates. Concerned Parent has dedicated unlockable framing; Janitor does not currently have an equally explicit official unlock FAQ in the sources reviewed here.",
+          "If Janitor appears in character select, study the kit immediately. If Janitor is locked, check the in-game quest log before trusting a third-party checklist.",
+          "Player-reported Steam threads talk about needing successful Janitor runs before later content feels open. That is useful context, not an official step-by-step unlock article."
+        ],
+        "bullets": [
+          "Official: Janitor is named in the five-character Early Access launch roster",
+          "Official: quests gate advanced characters and Facility access as a system",
+          "Player-reported: some players describe Janitor runs as a gate into later progression"
+        ],
+        "links": [
+          {
+            "label": "Quest system overview",
+            "slug": "quests",
+            "description": "Official quest framing plus player-reported objective table."
+          }
+        ]
+      },
+      {
+        "id": "starting-deck-and-core-mechanics",
+        "heading": "Starting Deck and Core Mechanics",
+        "paragraphs": [
+          "Official sources are firm on structure and light on a public card-by-card Janitor dump. Every character, including Janitor, starts with a distinct combat deck, a distinct explore deck, and a base Foresight card. Facility-facing coverage surrounds that structure with cleaning, gunk, machines, and data language.",
+          "Because the cited official notes do not print a complete Janitor starter list, this guide refuses to fabricate one. Use the in-client card inspector as the authority for exact names, costs, and keywords.",
+          "Player-reported: Steam discussion has argued about Janitor opening with multiple Scavenge cards and whether that explore-side density feels like early clutter. Verify Scavenge density in your own opening hand."
+        ],
+        "table": {
+          "caption": "What is confirmed vs still open for Janitor starters",
+          "columns": [
+            "Topic",
+            "Current status",
+            "How to verify"
+          ],
+          "rows": [
+            [
+              "Unique combat and explore starters + Foresight",
+              "Official",
+              "Character select and first rooms"
+            ],
+            [
+              "Facility cleaning / gunk focus",
+              "Official patch and diary framing",
+              "Facility runs after pathway unlock"
+            ],
+            [
+              "Exact starter card names and counts",
+              "Not fully published in cited official notes",
+              "In-game inspector only"
+            ],
+            [
+              "Multiple opening Scavenge cards",
+              "Player-reported community discussion",
+              "Compare your opening explore hand"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "How to evaluate cards and combos",
+            "slug": "best-cards",
+            "description": "Role-based scoring without fake tier lists."
+          }
+        ]
+      },
+      {
+        "id": "early-run-playstyle",
+        "heading": "Early-Run Playstyle",
+        "paragraphs": [
+          "Early Janitor runs should prioritize literacy over greed. Official 0.6.39 language exists because Facility and Janitor were hard for many new players to parse. First hours are about reading cleaning and gunk correctly, not forcing a highlight-reel turn.",
+          "On explore, learn which rooms and tools convert mess into progress. On combat, prefer stable lines while you learn Facility enemies. Official store fantasy still rewards growth and modification, so a clean engine beats a fragile spike.",
+          "If you are brand new to the double-deck loop, consider one Forgotten Path orientation run first, then return to Janitor once Facility is unlocked."
+        ],
+        "bullets": [
+          "Read cleaning and gunk text before drafting exotic machines",
+          "Keep explore for routing/conversion and combat for survival",
+          "Update past 0.6.39 before judging Janitor difficulty"
+        ]
+      },
+      {
+        "id": "card-synergies-and-upgrades",
+        "heading": "Card Synergies and Upgrade Priorities",
+        "paragraphs": [
+          "Without a verified public starter list, upgrade advice stays principle-based. Official Facility and Janitor notes reward cleaning and gunk clarity, while the broader fantasy rewards cards that grow, convert, or create lasting modification value.",
+          "Ask whether a card makes cleaning or gunk more readable, creates multi-room resources, and still helps after Facility enemies escalate. Official 0.6.39 adjusted multiple Facility card behaviors, so launch-weekend screenshots are weak evidence.",
+          "Pair conversion tools with payoff cards rather than stacking novelty. The best-cards page explains how to score finishers, routers, and modifiers without a frozen tier list."
+        ],
+        "links": [
+          {
+            "label": "Best cards evaluation framework",
+            "slug": "best-cards"
+          },
+          {
+            "label": "Character roster context",
+            "slug": "characters"
+          }
+        ]
+      },
+      {
+        "id": "facility-tips-and-mistakes",
+        "heading": "Facility Tips and Common Mistakes",
+        "paragraphs": [
+          "Facility is officially a full second pathway with unique cards, enemies, and rewards. Diary material and patch notes keep Janitor adjacent to that pathway’s cleaning and machine language. Do not treat Facility like Forgotten Path with different wallpaper.",
+          "Update first. Official 0.6.39 work existed because Janitor and Facility onboarding felt too complex. Then unlock Facility through the quest system rather than assuming every character can enter every route on day one.",
+          "Avoid ignoring gunk or cleaning keywords, drafting high-rarity cards that fight your conversion plan, judging Janitor from pre-0.6.39 memory, and skipping the card inspector."
+        ],
+        "bullets": [
+          "Rushing Facility before the pathway unlock quest is complete",
+          "Reading Janitor as pure damage and skipping system text",
+          "Using pre-0.6.39 Facility screenshots as current truth"
+        ],
+        "links": [
+          {
+            "label": "Paths comparison and Facility notes",
+            "slug": "paths"
+          }
+        ]
+      },
+      {
+        "id": "early-access-patch-changes",
+        "heading": "Relevant Early Access or Patch Changes",
+        "paragraphs": [
+          "Patch 0.6.24 publicly previewed upcoming balance fixes to make Janitor less punishing.",
+          "Patch 0.6.39 said Janitor and Facility were too challenging or complex for many new players, with only a small majority of runs ending in The Gloom. The goal was easier onboarding without simply making Janitor outright stronger.",
+          "Re-check card text after Facility-facing updates. This page’s lastReviewed date is an editorial checkpoint, not a promise that no newer hotfix exists."
+        ],
+        "table": {
+          "caption": "Janitor-relevant official patch signals",
+          "columns": [
+            "Patch",
+            "Official signal",
+            "Player takeaway"
+          ],
+          "rows": [
+            [
+              "0.6.24",
+              "Previewed upcoming Janitor less-punishing balance",
+              "Do not treat launch-week pain as permanent"
+            ],
+            [
+              "0.6.39",
+              "Janitor + Facility called too complex for many new players; onboarding and Facility card adjustments",
+              "Update before evaluating the character"
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Shroom and Gloom Janitor?",
+        "answer": "Janitor is one of the five Early Access characters named in official launch communications. Official materials give unique starting combat and explore decks plus a base Foresight card, and they place Janitor next to Facility systems such as cleaning and gunk."
+      },
+      {
+        "question": "Is Janitor unlocked from the start?",
+        "answer": "Official launch copy includes Janitor in the named playable roster, while also stating that quests unlock advanced characters and Facility access. If Janitor is locked in your client, trust the in-game quest log over third-party guesses."
+      },
+      {
+        "question": "What are Janitor’s starting cards?",
+        "answer": "Official sources confirm unique combat and explore starters plus a base Foresight card, but the cited public notes do not publish a complete starter-card table. Player-reported Steam discussion mentions Scavenge cards in opening explore density. Verify names in your card inspector."
+      },
+      {
+        "question": "Should new players start with Janitor?",
+        "answer": "Official 0.6.39 notes say Janitor and Facility felt too challenging or complex for many new players. Learn the double-deck loop on Forgotten Path first, then return to Janitor after Facility unlock and the latest patch."
+      }
+    ],
+    "relatedSlugs": [
+      "characters",
+      "best-cards",
+      "paths",
+      "quests"
+    ],
+    "sources": [
+      {
+        "label": "Shroom and Gloom Early Access launch post",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506161903",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "Five-character launch roster, unique starting decks and Foresight, quest unlock framing, Facility launch positioning."
+      },
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "Double-deck fantasy, Early Access pathway FAQ language, growth and modification framing."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.24",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506163029",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "Publicly previewed upcoming balance work to make Janitor less punishing."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.39",
+        "url": "https://store.steampowered.com/news/app/3271280/view/676258159214461057",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "Official statement that Janitor and Facility were too challenging/complex for many new players, plus Facility card/system adjustments."
+      },
+      {
+        "label": "Community character database",
+        "url": "https://meowdb.com/db/shroom-and-gloom/characters",
+        "type": "player-reported",
+        "typeLabel": "Community database",
+        "reviewed": "2026-09-21",
+        "note": "Community-reported character flavor text only; not used as proof of starter card lists."
+      }
+    ],
+    "lastReviewed": "2026-09-21"
+  },
+  {
+    "enabled": true,
+    "slug": "secret-tunnel",
+    "pageType": "guide",
+    "navLabel": "Secret Tunnel",
+    "title": "Shroom and Gloom Secret Tunnel Guide",
+    "description": "Shroom and Gloom Secret Tunnel guide with how to find tunnel entrances, mapping checks, Forgotten Path tips, and related quest and unlock notes.",
+    "keywords": [
+      "shroom and gloom secret tunnel",
+      "Forgotten Path tunnels",
+      "Shroom and Gloom Spelunker"
+    ],
+    "primaryKeyword": "shroom and gloom secret tunnel",
+    "secondaryKeywords": [
+      "map every tunnel Forgotten Path",
+      "Search Party tunnels",
+      "Spelunker achievement"
+    ],
+    "searchIntent": "Players searching for Shroom and Gloom secret tunnel want entrance recognition, mapping checks, and related quest or achievement notes without a full map rewrite.",
+    "priority": "P1",
+    "navVisible": false,
+    "wordCountTarget": 1100,
+    "factsStatus": "mixed",
+    "factsLabel": "Official mapping achievement facts + player-reported quest overlap",
+    "hero": {
+      "eyebrow": "Exploration guide",
+      "heading": "Shroom and Gloom Secret Tunnel Guide",
+      "lead": "This Shroom and Gloom Secret Tunnel guide explains how Forgotten Path tunnels work as an exploration checklist, how to avoid missing branches, and how related quest or achievement language should be separated when sources disagree."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer",
+        "paragraphs": [
+          "In current Early Access public data, shroom and gloom secret tunnel searches usually point at Forgotten Path tunnel discovery rather than a separate Steam-headline dungeon. The strongest first-party anchor is Spelunker: Map every tunnel of The Forgotten Path.",
+          "Official patch 0.6.24 allowed more torches to spawn in more Forgotten Path locations, which matters because missed tunnels are often dark off-route branches. Player-reported quest databases describe Search Party as Discover all tunnels in the Forgotten Path with a new-character reward; that row stays community-reported and separate from the achievement text.",
+          "This page stays narrow on purpose: tunnel finding and troubleshooting, not a full Forgotten Path rewrite."
+        ],
+        "links": [
+          {
+            "label": "Forgotten Path vs Facility",
+            "slug": "paths",
+            "description": "Route roles, risks, and patch-aware path choice."
+          },
+          {
+            "label": "Achievements including Spelunker",
+            "slug": "achievements",
+            "description": "Public achievement text and patch repair notes."
+          }
+        ]
+      },
+      {
+        "id": "what-counts-as-secret-tunnel",
+        "heading": "What Counts as a Secret Tunnel?",
+        "paragraphs": [
+          "For secret-tunnel traffic, players usually mean any Forgotten Path branch that is easy to walk past while boss-rushing. Official public language talks about tunnels of The Forgotten Path in Spelunker, not one room officially trademarked as Secret Tunnel.",
+          "If you only hunt one dramatic doorway and ignore the rest of the path’s branches, you can miss mapping progress and player-reported quest progress that care about discovering all tunnels.",
+          "Facility overview footage also shows an opening metal tunnel. Do not mix Facility intro spaces into Forgotten Path Spelunker tracking unless your quest log explicitly says so."
+        ],
+        "bullets": [
+          "Official anchor: Spelunker asks you to map every Forgotten Path tunnel",
+          "Player-reported anchor: Search Party asks you to discover all Forgotten Path tunnels",
+          "Not assumed here: one unique room name that alone satisfies every tunnel objective",
+          "Not assumed here: Facility intro tunnels automatically counting for Forgotten Path mapping"
+        ]
+      },
+      {
+        "id": "how-to-find-entrances",
+        "heading": "How to Find Tunnel Entrances",
+        "paragraphs": [
+          "Start Forgotten Path runs with exploration intent, not only boss intent. Public achievement text expects complete tunnel mapping rather than a shortest-line clear.",
+          "When a room offers multiple doors, treat unexplored exits as unpaid mapping debt. Official 0.6.24 notes adjusted explore rooms with three doors and added more torch spawns, which points at branching and darkness friction.",
+          "Leave notes for skipped dead ends, re-enter side corridors after upgrades, and do not assume a tunnel is done because you cleared its first fight. Mapping language implies discovery coverage."
+        ],
+        "steps": [
+          {
+            "heading": "Clear the visible room, then audit exits",
+            "description": "Before leaving, count doors, side gaps, and dark recesses. One leftover exit can hide a tunnel."
+          },
+          {
+            "heading": "Prefer light and reveal tools when branches multiply",
+            "description": "Official 0.6.24 torch improvements help, but your explore deck still needs routing answers when the path forks."
+          },
+          {
+            "heading": "Return after power spikes",
+            "description": "If a side tunnel looked too dangerous, come back after camp upgrades instead of writing it off."
+          },
+          {
+            "heading": "Finish cleanly enough to save",
+            "description": "Launch materials highlight autosave after fights or escapes. Avoid force-closing during exploration hand-in moments."
+          }
+        ]
+      },
+      {
+        "id": "mapping-checklist",
+        "heading": "Mapping and Exploration Checklist",
+        "paragraphs": [
+          "Use a checklist that separates what Steam shows you from what a quest log shows you. Official Spelunker progress is an achievement surface. Player-reported Search Party progress is a quest surface. They can move together and still fail separately."
+        ],
+        "table": {
+          "caption": "Forgotten Path tunnel mapping checklist",
+          "columns": [
+            "Check",
+            "Why it matters",
+            "Fact status"
+          ],
+          "rows": [
+            [
+              "Update to the latest Early Access build",
+              "0.6.24 changed torch pressure and some explore room layouts",
+              "Official"
+            ],
+            [
+              "Stay on Forgotten Path until mapping goals are done",
+              "Spelunker is Forgotten Path specific",
+              "Official achievement text"
+            ],
+            [
+              "Explore side branches, not only the boss line",
+              "All-tunnels language punishes shortest-path clears",
+              "Official + player-reported overlap"
+            ],
+            [
+              "Compare achievement popup vs quest log",
+              "Achievement completion is not automatically a quest hand-in",
+              "Editorial caution from existing unlock guidance"
+            ],
+            [
+              "Re-check after deaths and abandoned runs",
+              "Partial exploration can feel complete when it is not",
+              "Practical troubleshooting"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Quests guide and Search Party row",
+            "slug": "quests"
+          },
+          {
+            "label": "Concerned Parent mapping notes",
+            "slug": "how-to-unlock-concerned-parent"
+          }
+        ]
+      },
+      {
+        "id": "related-quest-and-achievement-notes",
+        "heading": "Related Quest and Achievement Notes",
+        "paragraphs": [
+          "Official Steam achievement text for Spelunker is public and specific: Map every tunnel of The Forgotten Path. That is the cleanest first-party sentence behind secret-tunnel intent.",
+          "Player-reported databases list Search Party as Discover all tunnels in the Forgotten Path with a new-character reward type. This wiki already uses that row carefully on the quests and Concerned Parent pages.",
+          "Do not collapse the systems. Spelunker does not automatically prove a quest handed in, and a tunnel quest does not automatically prove every achievement state is correct if a patch is mid-repair."
+        ],
+        "bullets": [
+          "Official: Spelunker = map every Forgotten Path tunnel",
+          "Player-reported: Search Party = discover all Forgotten Path tunnels for a new-character reward",
+          "Not proven by official notes reviewed here: Search Party and Spelunker are the same backend counter",
+          "Not proven here: every tunnel quest reward is specifically Concerned Parent without checking your log"
+        ],
+        "links": [
+          {
+            "label": "All 14 achievements",
+            "slug": "achievements"
+          },
+          {
+            "label": "How to unlock Concerned Parent",
+            "slug": "how-to-unlock-concerned-parent"
+          }
+        ]
+      },
+      {
+        "id": "troubleshooting-missed-tunnel",
+        "heading": "Troubleshooting a Missed Tunnel",
+        "paragraphs": [
+          "If a run felt complete but mapping did not move, assume a skipped branch before assuming a broken save. Forgotten Path risk is often exploration completeness across many tunnels.",
+          "Re-run with a slower route bias. Take three-door rooms seriously and use torch or reveal tools earlier. After 0.6.24, torch support is better, but it still cannot explore for you.",
+          "If progress still refuses to complete, update the game, restart the client, and compare exact in-game wording with this page. Early Access text wins over any wiki summary."
+        ],
+        "bullets": [
+          "Missed side door in a multi-exit explore room",
+          "Abandoned a dark branch intending to return and never did",
+          "Switched to Facility before Forgotten Path mapping goals were finished",
+          "Trusted an achievement toast as proof of quest completion",
+          "Played on an older build before torch and explore-room fixes"
+        ]
+      },
+      {
+        "id": "forgotten-path-navigation-tips",
+        "heading": "Forgotten Path Navigation Tips",
+        "paragraphs": [
+          "Keep this section local. The full Forgotten Path versus Facility matrix lives on the paths page; here the job is helping tunnel hunters move efficiently.",
+          "Bias your early explore deck toward information and survivable routing. Official double-deck design wants explore cards to handle movement, searching, and setup while combat cards protect that mapping time.",
+          "When your goal is Spelunker or player-reported all-tunnels quest progress, stay on Forgotten Path until the checklist is honestly finished. Switching early only delays the objective."
+        ],
+        "links": [
+          {
+            "label": "Paths guide for route choice",
+            "slug": "paths"
+          },
+          {
+            "label": "Quests checklist",
+            "slug": "quests"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the Shroom and Gloom secret tunnel?",
+        "answer": "In current Early Access public sources, secret-tunnel searches usually refer to Forgotten Path tunnel branches you can miss while rushing. The strongest official sentence behind that intent is Spelunker: Map every tunnel of The Forgotten Path."
+      },
+      {
+        "question": "How do I find secret tunnel entrances?",
+        "answer": "Audit every exit in branching explore rooms, use light and reveal tools, and return to scary side paths after upgrades. Official 0.6.24 notes improved torch spawns and adjusted some three-door explore layouts."
+      },
+      {
+        "question": "Is Spelunker the same as Search Party?",
+        "answer": "Not necessarily. Spelunker is an official Steam achievement. Search Party is a player-reported quest row about discovering all Forgotten Path tunnels. They can overlap in play and still remain separate systems."
+      },
+      {
+        "question": "Does mapping every tunnel unlock Concerned Parent?",
+        "answer": "Official notes confirm Concerned Parent is unlockable. Player-reported databases connect full Forgotten Path tunnel discovery to a new-character quest reward. Do not treat Spelunker alone as automatic proof of the character unlock."
+      },
+      {
+        "question": "Should I use this page instead of the paths guide?",
+        "answer": "No. Use this page for tunnel discovery and troubleshooting. Use the paths guide for Forgotten Path versus Facility strategy, and achievements or quests pages for the wider systems tables."
+      }
+    ],
+    "relatedSlugs": [
+      "paths",
+      "quests",
+      "achievements",
+      "how-to-unlock-concerned-parent"
+    ],
+    "sources": [
+      {
+        "label": "Steam global achievements for Shroom and Gloom",
+        "url": "https://steamcommunity.com/stats/3271280/achievements/",
+        "type": "steam-data",
+        "typeLabel": "Steam achievements",
+        "reviewed": "2026-09-21",
+        "note": "Public Spelunker text: Map every tunnel of The Forgotten Path."
+      },
+      {
+        "label": "Shroom Patch Notes: 0.6.24",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506163029",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "More Forgotten Path torch spawns; explore rooms with 3 doors adjusted; achievement repairs."
+      },
+      {
+        "label": "Shroom and Gloom Early Access launch post",
+        "url": "https://store.steampowered.com/news/app/3271280/view/699901423506161903",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "Quest unlock framing, achievements launch, autosave after fights or escapes."
+      },
+      {
+        "label": "Shroom and Gloom on Steam",
+        "url": "https://store.steampowered.com/app/3271280/",
+        "type": "official",
+        "typeLabel": "Official Steam page",
+        "reviewed": "2026-09-21",
+        "note": "Explore versus combat deck roles and Early Access pathway framing."
+      },
+      {
+        "label": "Community quest objectives list",
+        "url": "https://meowdb.com/db/shroom-and-gloom/quests",
+        "type": "player-reported",
+        "typeLabel": "Community database",
+        "reviewed": "2026-09-21",
+        "note": "Player-reported Search Party objective and new-character reward type."
+      }
+    ],
+    "lastReviewed": "2026-09-21"
   }
 ]

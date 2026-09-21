@@ -159,6 +159,16 @@
           "label": "Forgotten Path vs Facility",
           "slug": "paths",
           "description": "Route differences, risks, and patch-aware notes."
+        },
+        {
+          "label": "Janitor guide",
+          "slug": "janitor",
+          "description": "Facility-facing character notes, availability, and patch context."
+        },
+        {
+          "label": "Secret Tunnel guide",
+          "slug": "secret-tunnel",
+          "description": "Forgotten Path tunnel mapping and troubleshooting."
         }
       ]
     },
@@ -230,6 +240,16 @@
           "label": "Paths comparison",
           "slug": "paths",
           "description": "Forgotten Path versus Facility for different goals."
+        },
+        {
+          "label": "Secret Tunnel mapping help",
+          "slug": "secret-tunnel",
+          "description": "How to stop missing Forgotten Path tunnels."
+        },
+        {
+          "label": "Janitor character help",
+          "slug": "janitor",
+          "description": "Playstyle and Facility onboarding notes."
         }
       ]
     },
@@ -283,6 +303,14 @@
         {
           "label": "Unlock Concerned Parent",
           "slug": "how-to-unlock-concerned-parent"
+        },
+        {
+          "label": "Open the Janitor guide",
+          "slug": "janitor"
+        },
+        {
+          "label": "Open the Secret Tunnel guide",
+          "slug": "secret-tunnel"
         }
       ]
     }

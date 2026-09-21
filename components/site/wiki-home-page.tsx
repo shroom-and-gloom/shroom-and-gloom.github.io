@@ -1,6 +1,7 @@
 import { BookOpen, ExternalLink, Gamepad2 } from "lucide-react";
 import Link from "next/link";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 import { FactsStatusBanner } from "@/components/site/facts-status";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
@@ -62,7 +63,9 @@ export function WikiHomePage() {
           </div>
         </section>
 
-        <div className="site-container"><NativeAdSlot /></div>
+        <div className="site-container">
+          <ResponsiveBanner />
+        </div>
 
         <div className="site-container wiki-page-body">
           {facts.length ? (
@@ -77,6 +80,8 @@ export function WikiHomePage() {
               </dl>
             </section>
           ) : null}
+
+          {facts.length ? <NativeAdSlot /> : null}
 
           {visibleCorePages.length ? (
             <nav className="wiki-quick-nav" aria-label="Quick navigation">
@@ -93,6 +98,8 @@ export function WikiHomePage() {
               </ul>
             </nav>
           ) : null}
+
+          {!facts.length && visibleCorePages.length ? <NativeAdSlot /> : null}
 
           <WikiShell
             sidebar={(
@@ -114,7 +121,10 @@ export function WikiHomePage() {
               </>
             )}
           >
-            <WikiPageSections sections={homePage.sections} />
+            <WikiPageSections
+              sections={homePage.sections}
+              afterFirstSection={!facts.length && !visibleCorePages.length ? <NativeAdSlot /> : undefined}
+            />
             {homePage.screenshots.length ? (
               <section id="screenshots" className="scroll-mt-24">
                 <p className="eyebrow">Visual reference</p>

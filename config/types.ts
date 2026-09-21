@@ -110,7 +110,7 @@ export interface IntegrationConfig {
   ads:
     | { provider: "none" }
     | {
-        provider: "adsterra-native";
+        provider: "adsterra";
         scriptUrl: string;
         containerId: string;
       };

@@ -17,7 +17,7 @@ export function NativeAdClient({ scriptUrl, containerId }: { scriptUrl: string; 
     script.async = true;
     script.src = scriptUrl;
     script.dataset.cfasync = "false";
-    script.dataset.gameWikiNativeAd = containerId;
+    script.dataset.adsterraNative = containerId;
     host.insertBefore(script, container);
 
     return () => {

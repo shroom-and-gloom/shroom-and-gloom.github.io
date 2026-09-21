@@ -34,7 +34,10 @@ function inspect(path) {
   const publisherIds = text.match(/\bca-pub-\d{8,}\b/gi) ?? [];
   for (const id of publisherIds) findings.push(`${displayPath}: hardcoded advertising publisher ID '${id}'`);
   if (/data-code=["'][A-Za-z0-9_-]{16,}["']/.test(text)) findings.push(`${displayPath}: hardcoded analytics code`);
-  if (/container-[a-f0-9]{24,}/i.test(text)) findings.push(`${displayPath}: hardcoded advertising container ID`);
+  // Site-specific Adsterra units live only in config/adsterra.ts (official GET CODE).
+  if (displayPath !== "config/adsterra.ts" && /container-[a-f0-9]{24,}/i.test(text)) {
+    findings.push(`${displayPath}: hardcoded advertising container ID`);
+  }
 }
 
 walk(root);

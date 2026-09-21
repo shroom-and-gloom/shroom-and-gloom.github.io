@@ -1,6 +1,7 @@
 import { BookOpen, ExternalLink, Gamepad2 } from "lucide-react";
 import Link from "next/link";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 import { FactsStatusBanner } from "@/components/site/facts-status";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
@@ -75,10 +76,15 @@ export default function HomePage() {
           </div>
         </section>
 
-        <div className="site-container"><NativeAdSlot /></div>
+        <div className="site-container">
+          <ResponsiveBanner />
+        </div>
 
         <div className="site-container space-y-20 py-14 sm:py-20">
-          <PageSections sections={homePage.sections} />
+          <PageSections
+            sections={homePage.sections}
+            afterFirstSection={<NativeAdSlot />}
+          />
           {homePage.screenshots.length ? <section>
             <p className="eyebrow">Visual reference</p>
             <h2>Example Game Screenshots</h2>
