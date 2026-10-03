@@ -1,0 +1,111 @@
+{
+  "gameName": "Shroom and Gloom",
+  "pages": [
+    {
+      "slug": "",
+      "lead": "Shroom and Gloom is a clear overview page for players who want current, practical information.",
+      "sections": [
+        {
+          "heading": "What Shroom and Gloom Is",
+          "paragraphs": [
+            "One-screen game explanation using Fact Pack only.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Who This Game Is For",
+          "paragraphs": [
+            "Audience fit, session style, and what new players should expect.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Start Here: Codes, Guides, and Key Systems",
+          "paragraphs": [
+            "Route players to P0/P1 child pages with contextual anchors.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Core Gameplay Snapshot",
+          "paragraphs": [
+            "Summarize confirmed mechanics and link deeper pages.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Confirmed Facts vs Still Unknown",
+          "paragraphs": [
+            "Separate sourced facts from unknowns without inventing details.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Related Shroom and Gloom Pages",
+          "paragraphs": [
+            "Explain sibling intents and when to open each related page.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Shroom and Gloom Practical Checklist",
+          "paragraphs": [
+            "Give a player checklist grounded in confirmed basics only.",
+            "Specific Shroom and Gloom details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [],
+      "usedSourceIds": [],
+      "unresolved": []
+    },
+    {
+      "slug": "wiki",
+      "lead": "Shroom and Gloom wiki is a clear guide page for players who want current, practical information.",
+      "sections": [
+        {
+          "heading": "Quick Start",
+          "paragraphs": [
+            "First-screen steps for new players.",
+            "Specific Shroom and Gloom wiki details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Core Progression Loop",
+          "paragraphs": [
+            "Explain the main gameplay loop with sourced facts.",
+            "Specific Shroom and Gloom wiki details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Common Mistakes to Avoid",
+          "paragraphs": [
+            "Practical pitfalls tied to search intent.",
+            "Specific Shroom and Gloom wiki details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "What Remains Unconfirmed",
+          "paragraphs": [
+            "Mark unknowns explicitly.",
+            "Specific Shroom and Gloom wiki details such as codes, drop rates, patch dates, and rewards are left out until they are publicly confirmed for Shroom and Gloom."
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [],
+      "usedSourceIds": [],
+      "unresolved": []
+    }
+  ]
+}
